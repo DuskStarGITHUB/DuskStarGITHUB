@@ -1,5 +1,5 @@
 # 💫 Acerca de mi
-👨‍💻 Desarrollador apasionado por la tecnología y el código limpio.<br>🚀 Explorador del mundo del desarrollo y siempre en busca de nuevos desafíos.<br>📚 Aprendiz constante y amante del conocimiento abierto.<br>💡 Creativo y entusiasta de las soluciones innovadoras.<br>🔧 Adicto a resolver problemas y mejorar procesos.<br>🎮 Jugador ocasional en mis momentos de descanso.<br>🎵 Melómano, la música me inspira a escribir código asombroso.<br>🌌 Admirador del espacio y la ciencia, buscando entender el universo.<br>📷 Aficionado a la fotografía, capturando momentos en el camino.<br>✨ Creyente de que cada día es una oportunidad para aprender y crecer.
+👨‍💻 Desarrollador apasionado por la tecnología y el código limpio.<br>🚀 Explorador del mundo del desarrollo y siempre en busca de nuevos desafíos.<br>📚 Aprendiz constante y amante del conocimiento abierto.<br>💡 Creativo y entusiasta de las soluciones innovadoras.<br>🔧 Adicto a resolver problemas y mejorar procesos.<br>🎮 Jugador ocasional en mis momentos de descanso.<br>🎵 Melómano, la música me inspira a escribir código asombroso.<br>📷 Aficionado a la fotografía, capturando momentos en el camino.<br>✨ Creyente de que cada día es una oportunidad para aprender y crecer.
 
 
 ## 🌐 Social
