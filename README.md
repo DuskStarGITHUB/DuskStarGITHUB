@@ -1,7 +1,9 @@
 # **DuskStarGITHUB**
 👋 ¡Bienvenido a mi GitHub!
 
-Aquí comparto mi pasión por la tecnología y la programación. Explora mis proyectos, desde pequeños scripts hasta creaciones más grandes. Estoy emocionado de colaborar y aprender juntos para construir un emocionante futuro tecnológico.
+Aquí comparto mi pasión por la tecnología y la programación. 
+Explora mis proyectos, desde pequeños scripts hasta creaciones más grandes. 
+Estoy emocionado de colaborar y aprender juntos para construir un emocionante futuro tecnológico.
 
 ¡Gracias por visitar y disfruta explorando el código y la creatividad!
 # 💫 Acerca de mi
