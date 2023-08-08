@@ -5,7 +5,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 ¡Gracias por visitar y disfruta explorando el código y la creatividad!
 
-# 💫 Acerca de mi
+## 💫 Acerca de mi
 👨‍💻 Desarrollador apasionado por la tecnología y el código limpio.
 
 🚀 Explorador del mundo del desarrollo y siempre en busca de nuevos desafíos.
