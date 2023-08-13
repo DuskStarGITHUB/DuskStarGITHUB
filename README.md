@@ -30,7 +30,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="javascript" width="30" height="30"/>
   </a>
   <a href="https://cplusplus.com/doc/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
