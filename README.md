@@ -42,7 +42,6 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
   </td></tr></table>
 </div>
 <br>
-<br>
 
 ## ⌨️ Lenguaje mas especializado
 
@@ -68,7 +67,6 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=high-contrast"/>
-<br>
 <br>
 
 ## 🏆 GitHub Trofeos
