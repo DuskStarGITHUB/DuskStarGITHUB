@@ -44,11 +44,11 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 <br>
 <br>
 
-## ⌨️ Lenguaje mas usado
+## ⌨️ Lenguaje mas especializado
 
 <h6>PYTHON</h6>
 
-<a href="https://www.python.org/" target="_blank"><picture><img style="margin: 10px" src="GITHUB/ICONS/python-animated-icon.gif" alt="Python" height="20" /></picture></a>
+<a href="https://www.python.org/" target="_blank"><picture><img style="margin: 10px" src="GITHUB/ICONS/python-animated-icon.gif" alt="Python" height="30" /></picture></a>
 <br>
 <br>
 
