@@ -1,9 +1,10 @@
-#|DuskSTARGITHUB|
+# **DuskStarGITHUB**
+
 👋 ¡Bienvenido a mi GitHub!
 
 Aquí comparto mi pasión por la tecnología y la programación, Explora mis proyectos, desde pequeños programas hasta creaciones más grandes, Estoy emocionado de colaborar y aprender para construir un emocionante futuro tecnológico.
 
-¡Gracias por visitar y disfruta explorando el código y la creatividad!              
+¡Gracias por visitar y disfruta explorando el código y la creatividad!
 <br>
 <br>
 
