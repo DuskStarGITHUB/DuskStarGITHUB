@@ -1,9 +1,4 @@
-8888b.  88   88 .dP"Y8 88  dP .dP"Y8 888888    db    88""Yb
- 8I  Yb 88   88 `Ybo." 88odP  `Ybo."   88     dPYb   88__dP
- 8I  dY Y8   8P o.`Y8b 88"Yb  o.`Y8b   88    dP__Yb  88"Yb
-8888Y"  `YbodP' 8bodP' 88  Yb 8bodP'   88   dP""""Yb 88  Yb
-
-
+#|DuskSTARGITHUB|
 👋 ¡Bienvenido a mi GitHub!
 
 Aquí comparto mi pasión por la tecnología y la programación, Explora mis proyectos, desde pequeños programas hasta creaciones más grandes, Estoy emocionado de colaborar y aprender para construir un emocionante futuro tecnológico.
@@ -70,3 +65,9 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 ![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=DuskStarGITHUB&icon=5&color=2)](https://visitcount.itsvg.in)
+
+## 🌐 ACTIVIDAD
+
+<a href="#">
+	<img align="center" width="50%" src="/GITHUB/CONTENT/iso_calender.svg" />
+</a>
