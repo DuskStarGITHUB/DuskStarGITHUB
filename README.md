@@ -46,8 +46,8 @@ PYTHON
 
 ## 📊 Estadisticas GITHUB
 
-![](https://github-readme-stats.vercel.app/api?username=DUSKSTAR&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=DUSKSTAR&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api?username=DuskStarGITHUB&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DuskStarGITHUB&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ## 🏆 GitHub Trofeos
