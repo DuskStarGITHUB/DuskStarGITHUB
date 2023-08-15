@@ -24,22 +24,22 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 <p align="left">
   <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    <img src="" alt="html5" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    <img src="" alt="css3" width="40" height="40"/>
   </a>
   <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/typescript-2.svg" alt="javascript" width="35" height="35"/>
+    <img src="" alt="javascript" width="35" height="35"/>
   </a>
   <a href="https://cplusplus.com/doc/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+    <img src="" alt="cplusplus" width="40" height="40"/>
   </a>
   <a href="https://docs.python.org/es/3/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+    <img src="" alt="python" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="" alt="mysql" width="40" height="40"/>
   </a>
 </p>
 
