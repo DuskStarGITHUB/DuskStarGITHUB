@@ -1,18 +1,14 @@
-# **DuskStarGITHUB**
+  ___    _   _   ___   _  __  ___   _____     _     ___ 
+ |   \  | | | | / __| | |/ / / __| |_   _|   /_\   | _ \
+ | |) | | |_| | \__ \ | ' <  \__ \   | |    / _ \  |   /
+ |___/   \___/  |___/ |_|\_\ |___/   |_|   /_/ \_\ |_|_\
+                                                        
 
 👋 ¡Bienvenido a mi GitHub!
 
 Aquí comparto mi pasión por la tecnología y la programación, Explora mis proyectos, desde pequeños programas hasta creaciones más grandes, Estoy emocionado de colaborar y aprender para construir un emocionante futuro tecnológico.
 
-¡Gracias por visitar y disfruta explorando el código y la creatividad!
-`7MM"""Yb.   `7MMF'   `7MF' .M"""bgd `7MMF' `YMM'  .M"""bgd MMP""MM""YMM       db      `7MM"""Mq.  
-  MM    `Yb.   MM       M  ,MI    "Y   MM   .M'   ,MI    "Y P'   MM   `7      ;MM:       MM   `MM. 
-  MM     `Mb   MM       M  `MMb.       MM .d"     `MMb.          MM          ,V^MM.      MM   ,M9  
-  MM      MM   MM       M    `YMMNq.   MMMMM.       `YMMNq.      MM         ,M  `MM      MMmmdM9   
-  MM     ,MP   MM       M  .     `MM   MM  VMA    .     `MM      MM         AbmmmqMA     MM  YM.   
-  MM    ,dP'   YM.     ,M  Mb     dM   MM   `MM.  Mb     dM      MM        A'     VML    MM   `Mb. 
-.JMMmmmdP'      `bmmmmd"'  P"Ybmmd"  .JMML.   MMb.P"Ybmmd"     .JMML.    .AMA.   .AMMA..JMML. .JMM.
-                                                                                                   
+¡Gracias por visitar y disfruta explorando el código y la creatividad!              
 <br>
 <br>
 
