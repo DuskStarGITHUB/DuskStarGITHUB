@@ -42,7 +42,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 PYTHON
 
-<a href="https://www.python.org/" target="_blank"><picture><img style="margin: 10px" src="GITHUB/ICONS/python-animated.gif" alt="Python" height="50" /></picture></a>
+<a href="https://www.python.org/" target="_blank"><picture><img style="margin: 10px" src="GITHUB/ICONS/python-animated-icon.gif" alt="Python" height="50" /></picture></a>
 
 ## 📊 Estadisticas GITHUB
 
