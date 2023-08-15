@@ -5,6 +5,8 @@
 Aquí comparto mi pasión por la tecnología y la programación, Explora mis proyectos, desde pequeños scripts hasta creaciones más grandes, Estoy emocionado de colaborar y aprender juntos para construir un emocionante futuro tecnológico.
 
 ¡Gracias por visitar y disfruta explorando el código y la creatividad!
+<br>
+<br>
 
 ## 💫 Acerca de mi
 
@@ -19,6 +21,8 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 📷 Aficionado a la fotografía, capturando momentos en el camino.
 
 ✨ Creyente de que cada día es una oportunidad para aprender y crecer.
+<br>
+<br>
 
 ## 🛠 Habilidades
 
@@ -37,12 +41,16 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/10-terminal.png" alt="Terminal" height="50" /></a>
   </td></tr></table>
 </div>
+<br>
+<br>
 
 ## ⌨️ Lenguaje mas usado
 
 PYTHON
 
 <a href="https://www.python.org/" target="_blank"><picture><img style="margin: 10px" src="GITHUB/ICONS/python-animated-icon.gif" alt="Python" height="50" /></picture></a>
+<br>
+<br>
 
 ## 📊 Estadisticas GITHUB
 
@@ -60,7 +68,8 @@ PYTHON
 
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=high-contrast"/>
-
+<br>
+<br>
 
 ## 🏆 GitHub Trofeos
 
