@@ -20,7 +20,6 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 📷 Aficionado a la fotografía, capturando momentos en el camino.
 
-✨ Creyente de que cada día es una oportunidad para aprender y crecer.
 <br>
 <br>
 
