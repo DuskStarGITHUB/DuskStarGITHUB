@@ -34,7 +34,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
     <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/7-mongodb.png" alt="MongoDB" height="50" /></a>
     <a href="https://github.com/DuskStarGITHUB" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/8-git.svg" alt="Git" height="50" /></a>
     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/9-docker.png" alt="Docker" height="50" /></a>
-    <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/10-terminal.png" alt="Terminal" height="50" /></a>
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/10-terminal.png" alt="Terminal" height="50" /></a>
   </td></tr></table>
 </div>
 
