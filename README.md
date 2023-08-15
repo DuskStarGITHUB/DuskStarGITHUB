@@ -66,9 +66,3 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 ![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
 
 [![](https://visitcount.itsvg.in/api?id=DuskStarGITHUB&icon=5&color=2)](https://visitcount.itsvg.in)
-
-## 🌐 ACTIVIDAD
-
-<a href="#">
-	<img align="center" width="50%" src="/GITHUB/CONTENT/iso_calender.svg" />
-</a>
