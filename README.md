@@ -22,39 +22,33 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 ## 🛠 Habilidades
 
-<p align="left">
-  <a href="https://developer.mozilla.org/es/docs/Web/HTML" target="_blank">
-    <img src="" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/CSS" target="_blank">
-    <img src="" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/es/docs/Web/JavaScript" target="_blank">
-    <img src="" alt="javascript" width="35" height="35"/>
-  </a>
-  <a href="https://cplusplus.com/doc/" target="_blank">
-    <img src="" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://docs.python.org/es/3/" target="_blank">
-    <img src="" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/sql/" target="_blank">
-    <img src="" alt="mysql" width="40" height="40"/>
-  </a>
-</p>
-
-
 <table><tr><td valign="center" width="33%">
 <div>
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" /></a>
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="50" /></a>
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/1-html.svg" alt="HTML5" height="50" /></a>
+<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/2-css.svg" alt="CSS3" height="50" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/3-typescript.png" alt="TypeScript" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/5-python.svg" alt="Python" height="50" /></a>
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/4-cpp.svg" alt="C++" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/6-mysql.png" alt="MySQL" height="50" /></a>
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/7-mongodb.png" alt="MongoDB" height="50" /></a>
+<a href="https://github.com/DuskStarGITHUB" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/8-git.svg" alt="Git" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/9-docker.png" alt="Docker" height="50" /></a>
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/10-terminal.png" alt="Terminal" height="50" /></a>
 </div>
 </td>
+
+## ⌨️ Lenguaje mas usado
+
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="" alt="Python" height="50" /></a>
+
+## 📊 Estadisticas GITHUB
+
+![](https://github-readme-stats.vercel.app/api?username=DUSKSTAR&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=DUSKSTAR&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+## 🏆 GitHub Trofeos
+
+![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+
+[![](https://visitcount.itsvg.in/api?id=DuskStarGITHUB&icon=5&color=2)](https://visitcount.itsvg.in)
