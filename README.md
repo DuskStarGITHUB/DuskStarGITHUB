@@ -33,12 +33,12 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/5-python.svg" alt="Python" height="50" /></a>
     <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/4-cpp.svg" alt="C++" height="50" /></a>
   </td><td valign="center" width="33%">
-    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/6-mysql.png" alt="MySQL" height="50" /></a>
+    <a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/6-mysql.svg" alt="MySQL" height="50" /></a>
     <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/7-mongodb.png" alt="MongoDB" height="50" /></a>
     <a href="https://git-scm.com/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/8-git.svg" alt="Git" height="50" /></a>
     <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/9-docker.png" alt="Docker" height="50" /></a>
+    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/10-terminal.svg" alt="Terminal" height="50" /></a>
     <a href="https://code.visualstudio.com/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/12-vscode.svg" alt="VS Code" height="50" /></a>
-    <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/10-terminal.png" alt="Terminal" height="50" /></a>
   </td></tr></table>
 </div>
 <br>
