@@ -39,7 +39,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 ## ⌨️ Lenguaje mas usado
 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="" alt="Python" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/python-animated.gif" alt="Python" height="50" /> PYTHON</a>
 
 ## 📊 Estadisticas GITHUB
 
