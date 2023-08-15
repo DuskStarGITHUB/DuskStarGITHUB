@@ -26,7 +26,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
   <table><tr><td valign="center" width="33%">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/1-html.svg" alt="HTML5" height="50" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/2-css.svg" alt="CSS3" height="50" /></a>
-    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/3-typescript.png" alt="TypeScript" height="40" /></a>
+    <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/3-typescript.png" alt="TypeScript" height="45" /></a>
     <a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/5-python.svg" alt="Python" height="50" /></a>
     <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/4-cpp.svg" alt="C++" height="50" /></a>
   </td><td valign="center" width="33%">
@@ -40,7 +40,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 ## ⌨️ Lenguaje mas usado
 
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/python-animated.gif" alt="Python" height="50" /></a>
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/python-animated.gif" alt="Python" height="50" />PYTHON</a>
 
 ## 📊 Estadisticas GITHUB
 
