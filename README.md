@@ -21,7 +21,6 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 📷 Aficionado a la fotografía, capturando momentos en el camino.
 
 <br>
-<br>
 
 ## 🛠 Habilidades
 
@@ -40,7 +39,6 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
     <a href="https://learn.microsoft.com/en-us/powershell/" target="_blank"><img style="margin: 10px" src="GITHUB/SVG/10-terminal.png" alt="Terminal" height="50" /></a>
   </td></tr></table>
 </div>
-<br>
 <br>
 
 ## 📊 Estadisticas GITHUB
