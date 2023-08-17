@@ -25,7 +25,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 ## 🛠 Habilidades
 
 <div>
-  <table><tr><td valign="center" width="10vw">
+  <table><tr><td valign="center" width="33%">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/1-html.svg" alt="HTML5" height="50" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/2-css.svg" alt="CSS3" height="50" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/3-typescript.png" alt="TypeScript" height="50" /></a>
@@ -45,7 +45,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 ## 📊 Estadisticas GITHUB
 
-<img height="350em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&theme=transparent" alt=DuskStarGITHUB />
+<img height="100em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&theme=transparent" alt=DuskStarGITHUB />
 
 <picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></picture>
 
