@@ -45,7 +45,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 ## 📊 Estadisticas GITHUB
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&theme=transparent" alt=DuskStarGITHUB />
+<img height="250em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&theme=transparent" alt=DuskStarGITHUB />
 
 <picture><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></picture>
 
