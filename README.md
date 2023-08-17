@@ -25,7 +25,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 ## 🛠 Habilidades
 
 <div>
-  <table><tr><td valign="center" width="33%">
+  <table><tr><td valign="center" width="10vw">
     <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/1-html.svg" alt="HTML5" height="50" /></a>
     <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/2-css.svg" alt="CSS3" height="50" /></a>
     <a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="GITHUB/ICONS/3-typescript.png" alt="TypeScript" height="50" /></a>
