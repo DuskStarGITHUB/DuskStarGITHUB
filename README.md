@@ -45,13 +45,13 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 ## 📊 Estadisticas GITHUB
 
-<img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&theme=transparent" alt=DuskStarGITHUB />
+<img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&theme=transparent" alt=DuskStarGITHUB />
 
 <div>
 <a href="https://github.com/DuskStarGITHUB">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuskStarGITHUB&theme=yeblu" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuskStarGITHUB&theme=yeblu" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskStarGITHUB&theme=yeblu" height="160em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskStarGITHUB&theme=yeblu" height="140em" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=high-contrast"/>
