@@ -43,22 +43,7 @@ Aquí comparto mi dedicacion por la tecnología y la programación, Explora mis 
 </div>
 <br>
 
-## 📊 Estadisticas GITHUB
+## 📊 Lenguajes
 
 <img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&theme=transparent" alt=DuskStarGITHUB />
 
-<div>
-<a href="https://github.com/DuskStarGITHUB">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuskStarGITHUB&theme=yeblu" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuskStarGITHUB&theme=yeblu" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskStarGITHUB&theme=yeblu" height="176em" />
-</div>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=high-contrast"/>
-<br>
-
-## 🏆 GitHub Trofeos
-
-![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
-
-[![](https://visitcount.itsvg.in/api?id=DuskStarGITHUB&icon=5&color=2)](https://visitcount.itsvg.in)
