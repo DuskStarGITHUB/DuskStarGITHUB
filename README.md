@@ -10,7 +10,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 
 ## 💫 Acerca de mi
 
-👨‍💻 Desarrollador back-end que le gusta código limpio.
+👨‍💻 Desarrollador back-end que le gusta el código limpio.
 
 📚 Aprendiz constante y amante del conocimiento abierto.
 
