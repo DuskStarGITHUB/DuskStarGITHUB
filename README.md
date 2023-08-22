@@ -51,7 +51,7 @@ Aquí comparto mi pasión por la tecnología y la programación, Explora mis pro
 <a href="https://github.com/DuskStarGITHUB">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuskStarGITHUB&theme=yeblu" height="180em" />
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuskStarGITHUB&theme=yeblu" height="180em" />
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskStarGITHUB&theme=yeblu" height="140em" />
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskStarGITHUB&theme=yeblu" height="150em" />
 </div>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=high-contrast"/>
