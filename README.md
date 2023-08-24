@@ -1,8 +1,8 @@
-# **DuskStarGITHUB**
+# <h1>**DuskStarGITHUB**</h1>
 
-# <picture><img align="left" height="45" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture>&nbsp;&nbsp;ACERCA DE MI
+<h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
 <br>
-👋¡Hola! Soy Spencer Pulido, conocido como DuskStar.
+¡Hola! Soy Spencer Pulido, conocido como DuskStar.
 
 Soy un programador back end especializado en Python, Mi perfil de GitHub exhibe soluciones eficientes y código de alta calidad sólidas asi como mi aprendizaje y proyectos.
 
@@ -10,7 +10,7 @@ Soy un programador back end especializado en Python, Mi perfil de GitHub exhibe 
 
 <br>
 
-# <picture><img align="left" height="45" src="https://media1.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif?cid=6c09b952s2xed0ed2qm4gbkcsa1uti9w5kfynvr35ul13pc7&ep=v1_stickers_related&rid=giphy.gif&ct=s"/></picture>HABILIDADES
+<h2><picture><img align="left" height="60" src="https://media1.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif?cid=6c09b952s2xed0ed2qm4gbkcsa1uti9w5kfynvr35ul13pc7&ep=v1_stickers_related&rid=giphy.gif&ct=s"/></picture><br>HABILIDADES</h2>
 <br>
 <div>
   <table><tr><td valign="center" width="33%">
@@ -32,7 +32,7 @@ Soy un programador back end especializado en Python, Mi perfil de GitHub exhibe 
 
 <br>
 
-# <picture><img align="left" height="45" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture>&nbsp;&nbsp;ESTADISTICAS
+<h2><picture><img align="left" height="60" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture><br>&nbsp;&nbsp;ESTADISTICAS</h2>
 <br>
 <img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&border_radius=25&custom_title=Lenguajes&nbsp;mas&nbsp;Usados&disable_animations=True" alt=DuskStarGITHUB/>
 
