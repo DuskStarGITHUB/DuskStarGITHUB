@@ -1,22 +1,12 @@
 # **DuskStarGITHUB**
 
-👋 Saludos a la comunidad,
+## 👋 Acerca de mi
 
-Mi enfoque se encuentra en la ingeniería de desarrollo backend, donde me comprometo en la construcción de soluciones técnicas altamente performantes y escalables. Mi misión es transformar desafíos complejos en código optimizado y funcional.
+¡Hola! Soy Spencer Pulido, conocido como DuskStar.
 
-## 💼 Perfil Profesional
+Soy un programador back end especializado en Python, enfocado en optimizar y escalar proyectos. Mi perfil de GitHub exhibe soluciones eficientes y código de alta calidad. Busco unirme a equipos innovadores en empresas líderes como Microsoft y Google. Con experiencia en informática empresarial, aspiro a impulsar soluciones técnicas sólidas y funcionales.
 
-👨‍💻 Con una trayectoria sólida en el desarrollo backend, he dedicado mi tiempo a diseñar e implementar sistemas eficientes que cumplen con las demandas del entorno empresarial.
-
-🚀 Siempre estoy en la búsqueda de la vanguardia tecnológica, explorando las últimas tendencias y adaptándolas de manera estratégica para resolver problemas.
-
-🎯 Mi pasión radica en la resolución de problemas intrincados, aplicando análisis meticuloso y pensamiento lógico para entregar resultados de alto calibre.
-
-🎵 La música, con su ritmo y estructura, influye en mi enfoque metódico y detallista al escribir código.
-
-📷 Más allá de la pantalla, disfruto de capturar momentos a través de la lente de una cámara, explorando la intersección entre creatividad y técnica.
-
-Agradezco tu visita a mi perfil. estaré encantado de conectar contigo y explorar posibles colaboraciones.
+¡Conéctate conmigo para colaboraciones y discusiones técnicas!
 
 
 <br>
