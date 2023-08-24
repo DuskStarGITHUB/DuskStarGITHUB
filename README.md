@@ -38,7 +38,7 @@
 <br>
 <br>
 <div align="center">
-<img aling="left" height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&border_radius=25&custom_title=Lenguajes&nbsp;mas&nbsp;Usados" alt=DuskStarGITHUB/>
+<img aling="left" height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&border_radius=25&custom_title=Lenguajes&nbsp;mas&nbsp;Usados&hide_border=true" alt=DuskStarGITHUB/>
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskStarGITHUB&theme=transparent" height="180em" />
 </div>
 <br>
