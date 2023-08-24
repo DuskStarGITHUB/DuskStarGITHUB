@@ -34,5 +34,5 @@ Soy un programador back end especializado en Python, Mi perfil de GitHub exhibe 
 
 # <picture><img align="left" height="45" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture>&nbsp;&nbsp;ESTADISTICAS
 <br>
-<img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&border_radius=50&custom_title=Lenguajes&nbsp;mas&nbsp;Usados&disable_animations=True" alt=DuskStarGITHUB/>
+<img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&border_radius=25&custom_title=Lenguajes&nbsp;mas&nbsp;Usados&disable_animations=True" alt=DuskStarGITHUB/>
 
