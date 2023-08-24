@@ -4,9 +4,9 @@
 <br>
 👋¡Hola! Soy Spencer Pulido, conocido como DuskStar.
 
-Soy un programador back end especializado en Python, enfocado en optimizar y escalar proyectos. Mi perfil de GitHub exhibe soluciones eficientes y código de alta calidad. Busco unirme a equipos innovadores en empresas líderes como Microsoft y Google. Con experiencia en informática empresarial, aspiro a impulsar soluciones técnicas sólidas y funcionales.
+Soy un programador back end especializado en Python, Mi perfil de GitHub exhibe soluciones eficientes y código de alta calidad sólidas asi como mi aprendizaje y proyectos.
 
-¡Conéctate conmigo para colaboraciones y discusiones técnicas!
+¡Conéctate conmigo para colaboraciones y conversaciones tecnicas!
 
 <br>
 
