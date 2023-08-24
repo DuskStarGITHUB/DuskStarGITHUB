@@ -11,7 +11,7 @@ Soy un programador back end especializado en Python, enfocado en optimizar y esc
 
 <br>
 
-# <picture><img align="left" height="45" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture>HABILIDADES
+# <picture><img align="left" height="45" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture>&nbsp;HABILIDADES
 
 <div>
   <table><tr><td valign="center" width="33%">
@@ -33,7 +33,7 @@ Soy un programador back end especializado en Python, enfocado en optimizar y esc
 
 <br>
 
-# <picture><img align="left" height="45" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture>ESTADISTICAS
+# <picture><img align="left" height="45" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture>&nbsp;ESTADISTICAS
 
 <img height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&theme=transparent" alt=DuskStarGITHUB />
 
