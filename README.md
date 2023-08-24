@@ -44,7 +44,7 @@
 <br>
 <br>
 <div align="right">
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuskStarGITHUB&theme=transparent&locale=es" height="130em" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuskStarGITHUB&theme=transparent&locale=es&custom_title=Informacion" height="130em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuskStarGITHUB&theme=transparent&locale=es" height="125em" />
+<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuskStarGITHUB&theme=transparent&locale=es&custom_title=Informacion" height="125em" />
 </div>
 <img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar"/>
