@@ -38,7 +38,7 @@
 <br>
 <br>
 <div align="center">
-<img aling="left" height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&border_radius=25&custom_title=Lenguajes&nbsp;mas&nbsp;Usados&disable_animations=True" alt=DuskStarGITHUB/>
+<img aling="left" height="127em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&border_radius=25&custom_title=Lenguajes&nbsp;mas&nbsp;Usados" alt=DuskStarGITHUB/>
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskStarGITHUB&theme=transparent" height="180em" />
 </div>
 <br>
@@ -47,4 +47,4 @@
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuskStarGITHUB&theme=transparent" height="180em" />
 <img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuskStarGITHUB&theme=transparent" height="180em" />
 </div>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night"/>
+<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000"/>
