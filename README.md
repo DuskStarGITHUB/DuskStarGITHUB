@@ -38,6 +38,6 @@
 <br>
 <br>
 <div align="center">
-<img aling="left" height="236em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
-<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" height="246em"/>
+<img aling="left" height="235em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" height="245em"/>
 </div>
