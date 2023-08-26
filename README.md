@@ -38,13 +38,6 @@
 <br>
 <br>
 <div align="center">
-<img aling="left" height="125em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&border_radius=25&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=DuskStarGITHUB&theme=transparent&locale=es" height="130em" />
+<img aling="left" height="236em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=8&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
+<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" height="246em"/>
 </div>
-<br>
-<br>
-<div align="right">
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=DuskStarGITHUB&theme=transparent&locale=es" height="125em" />
-<img align="right" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=DuskStarGITHUB&theme=transparent&locale=es&custom_title=Informacion" height="125em" />
-</div>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" height="350em"/>
