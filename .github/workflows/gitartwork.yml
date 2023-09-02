@@ -1,5 +1,5 @@
-name: gitartwork from a contribution graph
- on:
+ name: gitartwork from a contribution graph
+ on: 
    push:
    schedule:
      - cron: '* */24 * * *'
