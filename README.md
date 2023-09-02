@@ -3,9 +3,6 @@
   # <h1>**DuskStarGITHUB**</h1>
 </div>
 <div align="center">
-	<img src="DuskStar.svg" alt="banner">
-</div>
-<div align="center">
 	
   ```diff
   ─▄▀─▄▀
