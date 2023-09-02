@@ -15,4 +15,4 @@ jobs:
         with:
            user_name: DuskStarGITHUB
            text: DuskStar
-      - uses: jasineri/simple-push-action@v1
+      - uses: jasineri/simple-push-action@v2
