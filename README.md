@@ -1,4 +1,23 @@
-# <h1>**DuskStarGITHUB**</h1>
+<div align="center">
+  
+  # <h1>**DuskStarGITHUB**</h1>
+</div>
+<div align="center">
+	<img src="DuskStar.svg" alt="banner">
+</div>
+<div align="center">
+	
+  ```diff
+  ─▄▀─▄▀
+  ──▀──▀
+  █▀▀▀▀▀█▄
+  █░░░░░█─█
+  ▀▄▄▄▄▄▀▀
+  ```
+</div>
+
+
+
 <h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
 <br>
 <h3>
