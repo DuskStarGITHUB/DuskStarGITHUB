@@ -2,17 +2,6 @@
   
   # <h1>**DuskStarGITHUB**</h1>
 </div>
-<div align="center">
-	
-  ```diff
-  ─▄▀─▄▀
-  ──▀──▀
-  █▀▀▀▀▀█▄
-  █░░░░░█─█
-  ▀▄▄▄▄▄▀▀
-  ```
-</div>
-
 
 
 <h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
@@ -52,6 +41,17 @@
 <br>
 <br>
 <div align="center">
-  <img aling="left" height="230em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=5&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
+  <img aling="left" height="228em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=5&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
   <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" height="200em"/>
+</div>
+
+<div align="center">
+	
+  ```diff
+  ─▄▀─▄▀
+  ──▀──▀
+  █▀▀▀▀▀█▄
+  █░░░░░█─█
+  ▀▄▄▄▄▄▀▀
+  ```
 </div>
