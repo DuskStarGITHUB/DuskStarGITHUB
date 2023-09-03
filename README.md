@@ -142,6 +142,51 @@ gantt
 	-Le enseñe herramientas y funciones de github.<br>
 </details>
 
+<details><summary>🎒 Educacion</summary><br>
+	
+<div align="center">
+  <h2><picture><img src="https://www.puntogeek.com/wp-content/uploads/2010/06/mario-in-3d.gif" height="30" /></picture> Experiencia</h2>
+<br>
+  <table>
+    <tr>
+      <td width="50%">
+        <h3>🏫 Preparatoria</h3>
+        COBAEM 18 Ixtapaluca, Bachillerato en Contabilidad
+        - Clasificación de entidades económicas.
+        - Registros contables.
+        - Elaboración de estados financieros.
+        - Cálculo de costos.
+        - Nómina y contribuciones.
+        - Desarrollo del plan de negocios.
+      </td>
+      <td width="50%">
+        <h3>🏢 Universidad</h3>
+        Estudiante de Licenciatura en Informática en ETAC Chalco
+        - Enfoque en programación y desarrollo de software.
+        - Conocimientos en bases de datos y seguridad informática.
+        - Habilidades para resolver problemas.
+        - Trabajo en proyectos tecnológicos innovadores.
+        - Apasionado por la tecnología y el aprendizaje continuo.
+      </td>
+    </tr>
+  </table>
+</div>
+
+<br>
+
+<div align="center">
+<h2>
+ <picture><img src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" /></picture> Todo lo que desarolle para aprender
+<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" /></h2>
+<br>
+  <p align="center">
+    <a href="https://github.com/DuskStarGITHUB/PORTAFOLIO-GITHUB"><img width="278" src="https://denvercoder1-github-readme-stats.vercel.app/api/pin/?username=DuskStarGITHUB&repo=PORTAFOLIO-GITHUB&theme=tokyo-night&bg_color=00000000&title_color=3572A5&icon_color=3572A5" alt="Repositorio"></a>
+</p>
+</div>
+</details>
+
+
+
 <div align="center">
 	
   ```diff
