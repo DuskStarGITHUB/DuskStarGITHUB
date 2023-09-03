@@ -186,7 +186,10 @@ gantt
 </div>
 </details>
 
-
+<details><summary>📜 Certificados</summary><br>
+<div align="center">
+</div>
+</details>
 
 <div align="center">
 	
