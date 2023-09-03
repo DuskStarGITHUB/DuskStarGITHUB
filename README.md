@@ -1,4 +1,4 @@
-<img align="left" width="50%" src="https://hope1032.com.au/wp-content/uploads/2022/12/Hacker-personal-data-security.jpg"><br>
+<img align="left" width="50vw" src="https://hope1032.com.au/wp-content/uploads/2022/12/Hacker-personal-data-security.jpg"><br>
 
 <div align="center">
   
