@@ -60,6 +60,9 @@
   <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" height="200em"/>
 </div>
 
+<br>
+<br>
+<br>
 	
 <h2><picture><img align="left" height="60" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/253f181a-2a46-4aa0-9ce8-3808fb1f333a/dau4df1-aec16799-5559-4f08-9877-d8eb8493d9be.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1M2YxODFhLTJhNDYtNGFhMC05Y2U4LTM4MDhmYjFmMzMzYVwvZGF1NGRmMS1hZWMxNjc5OS01NTU5LTRmMDgtOTg3Ny1kOGViODQ5M2Q5YmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsinnHwid6HUEbgBklzKQN-4bvI_I2VsMWt1gyZwhhU"/></picture><br>&nbsp;&nbsp;Mas...</h2>
 
