@@ -1,8 +1,8 @@
+<img align="left" width="500px" src="https://hope1032.com.au/wp-content/uploads/2022/12/Hacker-personal-data-security.jpg"><br>
 <div align="center">
   
   # <h1>**DuskStarGITHUB**</h1>
-</div><br>
-<img align="right" width="500px" src="https://hope1032.com.au/wp-content/uploads/2022/12/Hacker-personal-data-security.jpg">
+</div>
 
 
 
