@@ -107,18 +107,18 @@ gantt
 <summary>
     💬Frases sobre Programación
 </summary>
-    > "Programar es un arte que requiere de paciencia y creatividad."
-    > "La programación es el lenguaje del futuro, y cada programador es un escritor de si mismo."
-    > "El código bien escrito es la mejor documentación."
-    > "Programar es como resolver un rompecabezas en constante evolución."
-    > "En el mundo de la programación, cada error es una oportunidad de aprendizaje."
+    > "Programar es un arte que requiere de paciencia y creatividad."<br>
+    > "La programación es el lenguaje del futuro, y cada programador es un escritor de si mismo."<br>
+    > "El código bien escrito es la mejor documentación."<br>
+    > "Programar es como resolver un rompecabezas en constante evolución."<br>
+    > "En el mundo de la programación, cada error es una oportunidad de aprendizaje."<br>
 </details>
 
 <details>
 <summary>
     🚀Proyectos
 </summary>
-1- [DarkCalculator](https://github.com/DuskStarGITHUB/DarkCalculator)
+1- [DarkCalculator](https://github.com/DuskStarGITHUB/DarkCalculator)<br>
 	-Desarolle mi propia app.
 </details>
 
@@ -126,7 +126,7 @@ gantt
 <summary>
     🤝Contribuciones
 </summary>
-1- [Simple VS Code](https://github.com/n4-no/Simple-VS-Code)
+1- [Simple VS Code](https://github.com/n4-no/Simple-VS-Code)<br>
 	-Le enseñe herramientas y funciones de github.
 </details>
 
