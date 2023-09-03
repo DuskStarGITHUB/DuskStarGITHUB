@@ -1,8 +1,13 @@
+<img align="left" width="50%" src="https://hope1032.com.au/wp-content/uploads/2022/12/Hacker-personal-data-security.jpg"><br><br>
+
 <div align="center">
   
   # <h1>**DuskStarGITHUB**</h1>
 </div>
 
+<br>
+<br>
+<br>
 
 <h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
 <br>
