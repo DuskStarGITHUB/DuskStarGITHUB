@@ -119,6 +119,7 @@ gantt
 <summary>
     💬Frases sobre Programación
 </summary>
+<br>
     > "Programar es un arte que requiere de paciencia y creatividad."<br><br>
     > "La programación es el lenguaje del futuro, y cada programador es un escritor de si mismo."<br><br>
     > "El código bien escrito es la mejor documentación."<br><br>
