@@ -130,7 +130,7 @@ gantt
 <details>
 <summary>
     🚀Proyectos
-</summary>
+</summary><br>
 1- [DarkCalculator](https://github.com/DuskStarGITHUB/DarkCalculator)<br>
 	-Desarolle mi propia app.<br>
 </details>
@@ -138,12 +138,12 @@ gantt
 <details>
 <summary>
     🤝Contribuciones
-</summary>
+</summary><br>
 1- [Simple VS Code](https://github.com/n4-no/Simple-VS-Code)<br>
 	-Le enseñe herramientas y funciones de github.<br>
 </details>
 
-<details><summary>🎒 Educacion</summary><br>
+<details><summary>🎒 Educacion</summary>
 	
 <div align="center">
   <h2><picture><img src="https://www.puntogeek.com/wp-content/uploads/2010/06/mario-in-3d.gif" height="30" /></picture> Experiencia</h2>
