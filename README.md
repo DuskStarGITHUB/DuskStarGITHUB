@@ -1,4 +1,4 @@
-<img align="left" width="500px" src="https://hope1032.com.au/wp-content/uploads/2022/12/Hacker-personal-data-security.jpg"><br>
+<picture><img align="left" width="550px" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"></picture><br>
 <div align="center">
   
   # <h1>**GITHUB**</h1>
