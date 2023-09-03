@@ -188,6 +188,16 @@ gantt
 
 <details><summary>📜 Certificados</summary><br>
 <div align="center">
+	<table>
+    <tr>
+      <td><img src="GITHUB/CERTIFICADOS/Introducción a HTML_certificate.jpg" width="100%" /></td>
+      <td><img src="GITHUB/CERTIFICADOS/Introducción a CSS_certificate.jpg" width="100%" /></td>
+    </tr>
+    <tr>
+      <td><img src="GITHUB/CERTIFICADOS/Certificado Reto Digital_RETO DIGITAL ALIAT_PULIDO ROMERO_pages-to-jpg-0001.jpg" width="100%" /></td>
+      <td><img src="GITHUB/CERTIFICADOS/Certificado Comunicación Oral_Comunicación Oral y Escrita (20232MT3005)_PULIDO ROMERO_pages-to-jpg-0001.jpg" width="100%" /></td>
+    </tr>
+  </table>
 </div>
 </details>
 
