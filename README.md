@@ -10,6 +10,8 @@
 <br>
 <br>
 
+<h1 align="center">| Informacion |</h1>
+
 <h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
 <br>
 <h3>
