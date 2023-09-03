@@ -1,11 +1,12 @@
-<picture><img align="left" width="550px" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"></picture><br>
+<picture><img align="left" width="550px" src="https://i.pinimg.com/originals/6b/13/c5/6b13c5f67c072fd6c531107b51b70359.gif"></picture><br><br>
 <div align="center">
   
   # <h1>**GITHUB**</h1>
 </div>
 
 
-
+<br>
+<br>
 <br>
 <br>
 <br>
