@@ -1,5 +1,5 @@
 <picture>
-<img src="https://fraykeys.tn/wp-content/uploads/2023/07/home_header_bg_day_english.gif" />
+<img src="https://steamcdn-a.akamaihd.net/steam/clusters/sale_autumn_sale_2019/a9462a01a29305cd5225c392/page_bg_english.png?t=1574783155" witdh="100%" />
 </picture>
 <h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
 <br>
