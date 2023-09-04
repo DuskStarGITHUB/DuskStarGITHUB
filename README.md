@@ -269,18 +269,15 @@ gantt
   </table>
 </div>
 </details>
-<details><summary>🏆 Rendimiento</summary><br>
-<picture>
+<details><summary>🏆 Trofeos</summary><br>
+<picture align="left">
  
-![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=radical&no-frame=false&no-bg=true&margin-w=2)
 </picture>
-
-
-![](https://github-contributor-stats.vercel.app/api?username=DuskStarGITHUB&limit=5&theme=algolia&combine_all_yearly_contributions=true)
-
 </details>
 
 <div align="center">
+
 	
   ```diff
   ─▄▀─▄▀
