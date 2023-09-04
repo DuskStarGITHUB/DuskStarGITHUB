@@ -5,9 +5,6 @@
 
 <br>
 <br>
-<br>
-<br>
-
 <h1 align="center">| Informacion |</h1>
 
 <br>
@@ -131,8 +128,34 @@ gantt
 <summary>
     🚀Proyectos
 </summary><br>
-1- [DarkCalculator](https://github.com/DuskStarGITHUB/DarkCalculator)<br>
-	-Desarolle mi propia app.<br>
+<table>
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📂 Nombres</b></td>
+      <td><b>⭐ Estrellas</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+      <td><a href="https://github.com/DuskStarGITHUB/DuskStarGITHUB"><b>README</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/DuskStarGITHUB/PORTAFOLIO-GITHUB"><b>Portafolio GITHUB</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 </details>
 
 <details>
