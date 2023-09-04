@@ -82,21 +82,18 @@
 			<td></td>
 			<td></td>
 		</tr>
-  <tr>
-    <td></td>
-    <td></td>
-    <td></td>
-    <td>Logo-Mark-Lightbg (Seaborn), Scikit-Learn</td>
-    <td></td>
-    <td></td>
-  </tr>
-</table>
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="40" height="35"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
-</p>
-
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
+			</td>
+			<td></td>
+			<td></td>
+		</tr>
+	</table>
 </div>
 
 <br>
