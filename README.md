@@ -183,8 +183,34 @@ gantt
 <summary>
     🤝Contribuciones
 </summary><br>
-1- [Simple VS Code](https://github.com/n4-no/Simple-VS-Code)<br>
-	-Le enseñe herramientas y funciones de github.<br>
+<table align="center">
+  <thead align="center">
+    <tr border: none;>
+      <td><b>📂 Nombres</b></td>
+      <td><b>⭐ Estrellas</b></td>
+      <td><b>📚 Forks</b></td>
+      <td><b>🛎 Issues</b></td>
+      <td><b>📬 Pull requests</b></td>
+    </tr>
+  </thead>
+  <tbody>
+<tr>
+      <td><a href="https://github.com/n4-no/Simple-VS-Code"><b>Simple VS Code</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/n4-no/Simple-VS-Code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/n4-no/Simple-VS-Code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/n4-no/Simple-VS-Code?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/n4-no/Simple-VS-Code?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+<tr>
+      <td><a href="https://github.com/DuskStarGITHUB/"><b>...</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/?style=flat-square&labelColor=343b41"/></td>
+    </tr>
+  </tbody>
+</table>
+<br>
 </details>
 
 <details><summary>🎒 Educacion</summary>
