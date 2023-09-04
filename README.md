@@ -2,13 +2,12 @@
 	
   # <h1>**GITHUB**</h1>
 </div>
-
-<br>
-<br>
-<h1 align="center">| Informacion |</h1>
-
-<br>
-<br>
+<div align="right">
+<picture>
+	
+[![](https://visitcount.itsvg.in/api?id=DuskStarGITHUB&icon=5&color=1)](https://visitcount.itsvg.in)
+</picture>
+</div>
 
 <h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
 <br>
@@ -256,7 +255,7 @@ gantt
 </div>
 </details>
 
-<details><summary>📜 Certificados</summary><br>
+<details><summary>📜 Credenciales</summary><br>
 <div align="center">
 	<table>
     <tr>
@@ -269,6 +268,16 @@ gantt
     </tr>
   </table>
 </div>
+</details>
+<details><summary>🏆 Rendimiento</summary><br>
+<picture>
+ 
+![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+</picture>
+
+
+![](https://github-contributor-stats.vercel.app/api?username=DuskStarGITHUB&limit=5&theme=algolia&combine_all_yearly_contributions=true)
+
 </details>
 
 <div align="center">
