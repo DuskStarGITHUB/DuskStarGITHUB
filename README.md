@@ -1,5 +1,5 @@
 <picture>
-<img src="https://fraykeys.tn/wp-content/uploads/2023/07/home_header_bg_day_english.gif" witdh="100%" />
+<img src="/GITHUB/RECURSOS/banner.gif" width="100%"/>
 </picture>
 <h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
 <br>
