@@ -25,6 +25,8 @@
 <img src="/GITHUB/ICONS/6-mysql.svg" alt="Mysql" width="40" height="40"/>
 <img src="/GITHUB/ICONS/7-mongodb.png" alt="Mongodb" width="40" height="40"/>
 <img src="https://gitlab.linphone.org/uploads/-/system/project/avatar/407/sqlite.png" alt="SQLite" width="40" height="40"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/AWS_Simple_Icons_AWS_Cloud.svg/2560px-AWS_Simple_Icons_AWS_Cloud.svg.png" alt="AWS" width="40" height="35"/>
+<img src="/GITHUB/ICONS/8-git.svg" alt="Git" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
 <img src="/GITHUB/ICONS/9-docker.png" alt="Docker" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Framework/pocoo_flask-icon.svg" alt="Flask" width="40" height="40"/>
@@ -35,7 +37,6 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
 <img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-md.png" alt="GitHub" width="40" height="40"/>
-<img src="/GITHUB/ICONS/8-git.svg" alt="Git" width="40" height="40"/>
 <img src="https://www.pngmart.com/files/17/Windows-Logo-Transparent-Background.png" alt="Windows" width="40" height="40"/>
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
 <img src="/GITHUB/ICONS/12-vscode.svg" alt="Vs Code" width="40" height="40"/>
