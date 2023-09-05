@@ -91,25 +91,19 @@
 		</tr>
 	</table>
 </div>
-
-<br>
-
 <h2><picture><img align="left" height="60" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture><br>&nbsp;&nbsp;ESTADISTICAS</h2>
-<br>
-<br>
 <div align="center">
-  <img aling="left" height="228em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=5&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
-  <img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" height="200em"/>
+	<img aling="left" height="229em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=5&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
+	<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" height="200em"/>
 </div>
 
 <h2><picture><img align="left" height="60" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/253f181a-2a46-4aa0-9ce8-3808fb1f333a/dau4df1-aec16799-5559-4f08-9877-d8eb8493d9be.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1M2YxODFhLTJhNDYtNGFhMC05Y2U4LTM4MDhmYjFmMzMzYVwvZGF1NGRmMS1hZWMxNjc5OS01NTU5LTRmMDgtOTg3Ny1kOGViODQ5M2Q5YmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsinnHwid6HUEbgBklzKQN-4bvI_I2VsMWt1gyZwhhU"/></picture><br>&nbsp;&nbsp;Mas...</h2>
 
 <details>
-<summary>
-	🎓Recorrido
-</summary>
-
-<div align="center">
+	<summary>
+		🎓Recorrido
+	</summary>
+	<div align="center">
 	
 ```mermaid
 gantt
@@ -145,12 +139,10 @@ gantt
 	section Proyectos
 		Proyecto DarkCalculator 12/01/2023 - 12/15/2023 :done, proyecto1, 12/01/2023, 12/15/2023
 		Proyecto DuskStarGITHUB.github.io 12/16/2023 - 12/31/2023 :done, proyecto2, 12/16/2023, 12/31/2023
-		Proyecto... En proceso 12/29/2023 - 12/29/2050 : done, proyecto3, 12/17/2023, 12/29/2030  
 
 	section Contribuciones
 		Contribucion SimpleVSCode 01/01/2024 - 01/15/2024 :done, contribucion1, 01/01/2024, 01/15/2024
 		Contribucion de Documentación 01/16/2024 - 01/31/2024 :done, contribucion2, 01/16/2024, 01/31/2024
-		Conreibucion... En proceso 12/29/2023 - 12/29/2050 : done, contribucion3, 12/17/2023, 12/29/2030  
 
 ```
 
@@ -160,70 +152,149 @@ gantt
 </details>
 
 <details>
-<summary>
-    💬Frases sobre Programación
-</summary>
-<br>
-    > "Programar es un arte que requiere de paciencia y creatividad."<br><br>
-    > "La programación es el lenguaje del futuro, y cada programador es un escritor de si mismo."<br><br>
-    > "El código bien escrito es la mejor documentación."<br><br>
-    > "Programar es como resolver un rompecabezas en constante evolución."<br><br>
-    > "En el mundo de la programación, cada error es una oportunidad de aprendizaje."<br><br>
+	<summary>
+		💬Frases sobre Programación
+	</summary>
+	<br>
+	> "Programar es un arte que requiere de paciencia y creatividad."<br><br>
+	> "La programación es el lenguaje del futuro, y cada programador es un escritor de si mismo."<br><br>
+	> "El código bien escrito es la mejor documentación."<br><br>
+	> "Programar es como resolver un rompecabezas en constante evolución."<br><br>
+	> "En el mundo de la programación, cada error es una oportunidad de aprendizaje."<br><br>
 </details>
 
 <details>
-<summary>
-    🚀Proyectos
-</summary><br>
-<table align="center">
-  <thead align="center">
-    <tr border: none;>
-      <td><b>📂 Nombres</b></td>
-      <td><b>⭐ Estrellas</b></td>
-      <td><b>📚 Forks</b></td>
-      <td><b>🛎 Issues</b></td>
-      <td><b>📬 Pull requests</b></td>
-    </tr>
-  </thead>
-  <tbody>
-<tr>
-      <td><a href="https://github.com/DuskStarGITHUB/DuskStarGITHUB"><b>README</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/DuskStarGITHUB/PORTAFOLIO-GITHUB"><b>Portafolio GITHUB</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-<tr>
-      <td><a href="https://github.com/DuskStarGITHUB/DuskStarGITHUB.github.io"><b>Portafolio</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-<tr>
-      <td><a href="https://github.com/DuskStarGITHUB/DarkCalculator"><b>DarkCalculator</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-<tr>
-      <td><a href="https://github.com/DuskStarGITHUB/"><b>...</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/?style=flat-square&labelColor=343b41"/></td>
-    </tr>
-  </tbody>
-</table>
-<br>
+	<summary>
+		🚀Proyectos
+	</summary>
+	<br>
+	<table align="center">
+		<thead align="center">
+			<tr border: none;>
+				<td>
+					<b>📂 Nombres
+					</b>
+				</td>
+				<td>
+					<b>⭐ Estrellas
+					</b>
+				</td>
+				<td>
+					<b>📚 Forks
+					</b>
+				</td>
+				<td>
+					<b>🛎 Issues
+					</b>
+				</td>
+				<td>
+					<b>📬 Pull requests
+					</b>
+				</td>
+			</tr>
+		</thead>
+		<tbody>
+			<tr>
+				<td>
+					<a href="https://github.com/DuskStarGITHUB/DuskStarGITHUB">
+						<b>README
+						</b>
+					</a>
+				</td>
+				<td>
+					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/
+				</td>
+				<td>
+					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/
+				</td>
+				<td>
+					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/
+				</td>
+				<td>
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/DuskStarGITHUB/PORTAFOLIO-GITHUB">
+						<b>Portafolio GITHUB
+						</b>
+					</a>
+				</td>
+				<td>
+					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/
+				</td>
+				<td>
+					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/DuskStarGITHUB/DuskStarGITHUB.github.io">
+						<b>Portafolio
+						</b>
+					</a>
+				</td>
+				<td>
+					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/DuskStarGITHUB/DarkCalculator">
+						<b>DarkCalculator
+						</b>
+					</a>
+				</td>
+				<td>
+					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/
+				</td>
+				<td>
+					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/DuskStarGITHUB/">
+						<b>...</b>
+					</a>
+				</td>
+				<td>
+					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/?style=flat-square&labelColor=343b41"/>
+				</td>
+			</tr>
+		</tbody>
+	</table>
 </details>
 
 <details>
