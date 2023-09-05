@@ -402,33 +402,16 @@ gantt
 			Experiencia
 		</h2>
 		<br>
-		<table>
-			<tr>
-				<td width="50%">
-					<h3>
-						🏫 Preparatoria
-					</h3>
-					COBAEM 18 Ixtapaluca, Bachillerato en Contabilidad
-					- Clasificación de entidades económicas.
-					- Registros contables.
-					- Elaboración de estados financieros.
-					- Cálculo de costos.
-					- Nómina y contribuciones.
-					- Desarrollo del plan de negocios.
-				</td>
-				<td width="50%">
-					<h3>
-						🏢 Universidad
-					</h3>
-					Estudiante de Licenciatura en Informática en ETAC Chalco
-					- Enfoque en programación y desarrollo de software.
-					- Conocimientos en bases de datos y seguridad informática.
-					- Habilidades para resolver problemas.
-					- Trabajo en proyectos tecnológicos innovadores.
-					- Apasionado por la tecnología y el aprendizaje continuo.
-				</td>
-			</tr>
-		</table>
+<table>
+	<tr>
+		<td width="50%"><h3>🏫 Preparatoria</h3><br>
+			Estudié Contabilidad en COBAEM 18 Ixtapaluca, adquiriendo conocimientos en clasificación de entidades económicas, registros contables, estados financieros, cálculo de costos, nómina y contribuciones, además de desarrollar un plan de negocios todo desde una manera basica y permitido tras el plan de estudios.
+		</td>
+		<td width="50%"> <h3>🏛️ Universidad</h3><br>
+			Estudié Informática en ETAC Chalco, adquiriendo conocimientos en programación, desarrollo de software, bases de datos y seguridad informática. También poseo habilidades para resolver problemas y participo en proyectos tecnológicos innovadores. Siempre me apasiona la tecnología y el aprendizaje continuo.
+		</td>
+	</tr>
+</table>
 	</div>
 	<div align="center">
 		<h2>
