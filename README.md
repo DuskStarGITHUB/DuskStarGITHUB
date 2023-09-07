@@ -1,15 +1,15 @@
 <picture>
 	<img src="/GITHUB/RECURSOS/banner.gif" width="100%"/>
 </picture>
-<h2><picture><img align="left" height="60" src="https://media1.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif?cid=6c09b952s2xed0ed2qm4gbkcsa1uti9w5kfynvr35ul13pc7&ep=v1_stickers_related&rid=giphy.gif&ct=s"/></picture><br>&nbsp;&nbsp;ACERCA DE MI</h2>
+<h2><picture><img align="left" height="60" src="https://media1.giphy.com/media/cpAGF6uxLw93uuQNNJ/giphy.gif?cid=6c09b952s2xed0ed2qm4gbkcsa1uti9w5kfynvr35ul13pc7&ep=v1_stickers_related&rid=giphy.gif&ct=s"/></picture><br>&nbsp;&nbsp;ABOUT ME</h2>
 <h3 align="center">
-	💻 Licenciado de informatica.<br>
-  	👨‍💻 Programador back-end.<br>
-  	🔍 Resolucion de problemas.<br>
-  	🛠️ Automatizacion de tareas.<br>
-  	📈 Constante.
+	💻 Computer Science graduate.<br>
+	👨‍💻 Back-end programmer.<br>
+	🔍 Problem solver.<br>
+	🛠️ Task automation.<br>
+	📈 Persistent.
 </h3>
-<h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>HABILIDADES</h2>
+<h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>SKILLS</h2>
 <div align="center">
 	<table>
 		<tr>
@@ -91,7 +91,7 @@
 		</tr>
 	</table>
 </div>
-<h2><picture><img align="left" height="60" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture><br>&nbsp;&nbsp;ESTADISTICAS</h2>
+<h2><picture><img align="left" height="60" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture><br>&nbsp;&nbsp;STATS</h2>
 <div align="center">
 	<img aling="left" width="25%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=5&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
 	<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" width="65%"/>
@@ -101,38 +101,38 @@
 
 <details>
 	<summary>
-		🎓Recorrido
+		🎓Career Journey
 	</summary>
 	<div align="center">
 	
 ```mermaid
 gantt
 	dateFormat MM/DD/YYYY
-	title Diagrama Gantt de DuskStar
+	title DuskStar Gantt Chart
 
-	section Aprendizaje
-		Inicio del Aprendizaje 01/01/2023 - 01/15/2023 :done, start1, 01/01/2023, 01/15/2023
-        	HTML Básico 01/16/2023 - 02/15/2023 :done, html1, 01/16/2023, 02/15/2023
-        	Etiquetas Avanzadas HTML 02/16/2023 - 03/15/2023 :done, html2, 02/16/2023, 03/15/2023
-        	CSS Básico 04/01/2023 - 04/30/2023 :done, css1, 04/01/2023, 04/30/2023
-        	CSS Avanzado 05/01/2023 - 05/31/2023 :done, css2, 05/01/2023, 05/31/2023
-        	JavaScript Básico 06/01/2023 - 06/30/2023 :done, js1, 06/01/2023, 06/30/2023
-        	Manipulación del DOM 07/01/2023 - 07/15/2023 :done, js2, 07/01/2023, 07/15/2023
-        	Python Básico 08/01/2023 - 08/30/2023 :done, python1, 08/01/2023, 08/30/2023
-        	Python Intermedio 09/01/2023 - 09/30/2023 :done, python2, 09/01/2023, 09/30/2023
-        	SQL y Diseño de Bases de Datos 11/16/2023 - 11/30/2023 :done, sql1, 11/16/2023, 11/30/2023
+	section Learning
+		Learning Start 01/01/2023 - 01/15/2023 :done, start1, 01/01/2023, 01/15/2023
+        	Basic HTML 01/16/2023 - 02/15/2023 :done, html1, 01/16/2023, 02/15/2023
+        	Advanced HTML Tags 02/16/2023 - 03/15/2023 :done, html2, 02/16/2023, 03/15/2023
+        	Basic CSS 04/01/2023 - 04/30/2023 :done, css1, 04/01/2023, 04/30/2023
+        	Advanced CSS 05/01/2023 - 05/31/2023 :done, css2, 05/01/2023, 05/31/2023
+        	Basic JavaScript 06/01/2023 - 06/30/2023 :done, js1, 06/01/2023, 06/30/2023
+        	DOM Manipulation 07/01/2023 - 07/15/2023 :done, js2, 07/01/2023, 07/15/2023
+        	Basic Python 08/01/2023 - 08/30/2023 :done, python1, 08/01/2023, 08/30/2023
+        	Intermediate Python 09/01/2023 - 09/30/2023 :done, python2, 09/01/2023, 09/30/2023
+        	SQL and Database Design 11/16/2023 - 11/30/2023 :done, sql1, 11/16/2023, 11/30/2023
         	MongoDB 12/01/2023 - 12/15/2023 :done, mongodb1, 12/01/2023, 12/15/2023
-        	SQLite y Bases de Datos Locales 12/16/2023 - 12/31/2023 :done, sqlite1, 12/16/2023, 12/31/2023
-        	Curso de Google Cloud 01/01/2024 - 01/15/2024 :done, cloud1, 01/01/2024, 01/15/2024
-		Diseño Responsivo con Media Queries 02/16/2024 - 02/29/2024 :done, media1, 02/16/2024, 02/29/2024
+        	SQLite and Local Databases 12/16/2023 - 12/31/2023 :done, sqlite1, 12/16/2023, 12/31/2023
+        	Google Cloud Course 01/01/2024 - 01/15/2024 :done, cloud1, 01/01/2024, 01/15/2024
+		Responsive Design with Media Queries 02/16/2024 - 02/29/2024 :done, media1, 02/16/2024, 02/29/2024
 
-	section Proyectos
-		Proyecto DarkCalculator 12/01/2023 - 12/15/2023 :done, proyecto1, 12/01/2023, 12/15/2023
-		Proyecto DuskStarGITHUB.github.io 12/16/2023 - 12/31/2023 :done, proyecto2, 12/16/2023, 12/31/2023
+	section Projects
+		DarkCalculator Project 12/01/2023 - 12/15/2023 :done, project1, 12/01/2023, 12/15/2023
+		DuskStarGITHUB.github.io Project 12/16/2023 - 12/31/2023 :done, project2, 12/16/2023, 12/31/2023
 
-	section Contribuciones
-		Contribucion SimpleVSCode 01/01/2024 - 01/15/2024 :done, contribucion1, 01/01/2024, 01/15/2024
-		Contribucion de Documentación 01/16/2024 - 01/31/2024 :done, contribucion2, 01/16/2024, 01/31/2024
+	section Contributions
+		SimpleVSCode Contribution 01/01/2024 - 01/15/2024 :done, contribution1, 01/01/2024, 01/15/2024
+		Documentation Contribution 01/16/2024 - 01/31/2024 :done, contribution2, 01/16/2024, 01/31/2024
 
 ```
 
@@ -143,19 +143,7 @@ gantt
 
 <details>
 	<summary>
-		💬Frases sobre Programación
-	</summary>
-	<br>
-	> "Programar es un arte que requiere de paciencia y creatividad."<br><br>
-	> "La programación es el lenguaje del futuro, y cada programador es un escritor de si mismo."<br><br>
-	> "El código bien escrito es la mejor documentación."<br><br>
-	> "Programar es como resolver un rompecabezas en constante evolución."<br><br>
-	> "En el mundo de la programación, cada error es una oportunidad de aprendizaje."<br><br>
-</details>
-
-<details>
-	<summary>
-		🚀Proyectos
+		🚀 Projects
 	</summary>
 	<br>
 	<table align="center">
@@ -163,12 +151,12 @@ gantt
 			<tr border: none;>
 				<td>
 					<b>
-						📂 Nombres
+						📂 Names
 					</b>
 				</td>
 				<td>
 					<b>
-						⭐ Estrellas
+						⭐ Stars
 					</b>
 				</td>
 				<td>
@@ -214,7 +202,7 @@ gantt
 				<td>
 					<a href="https://github.com/DuskStarGITHUB/PORTAFOLIO-GITHUB">
 						<b>
-							Portafolio GITHUB
+							Portfolio GITHUB
 						</b>
 					</a>
 				</td>
@@ -235,7 +223,7 @@ gantt
 				<td>
 					<a href="https://github.com/DuskStarGITHUB/DuskStarGITHUB.github.io">
 						<b>
-							Portafolio
+							Portfolio WEB
 						</b>
 					</a>
 				</td>
@@ -300,7 +288,7 @@ gantt
 
 <details>
 	<summary>
-		🤝Contribuciones
+		🤝 Contributions
 	</summary>
 	<br>
 	<table align="center">
@@ -308,12 +296,12 @@ gantt
 			<tr border: none;>
 				<td>
 					<b>
-						📂 Nombres
+						📂 Names
 					</b>
 				</td>
 				<td>
 					<b>
-						⭐ Estrellas
+						⭐ Stars
 					</b>
 				</td>
 				<td>
@@ -382,23 +370,23 @@ gantt
 
 <details>
 	<summary>
-		🎒 Educacion
+		🎒 Education
 	</summary>
 	<div align="center">
 		<h2>
 			<picture>
 				<img src="https://www.puntogeek.com/wp-content/uploads/2010/06/mario-in-3d.gif" height="30" />
 			</picture>
-			Experiencia
+			Experience
 		</h2>
 		<br>
 <table>
 	<tr>
-		<td width="50%"><h3>🏫 Preparatoria</h3><br>
-			Estudié Contabilidad en COBAEM 18 Ixtapaluca, adquiriendo conocimientos en clasificación de entidades económicas, registros contables, estados financieros, cálculo de costos, nómina y contribuciones, además de desarrollar un plan de negocios todo desde una manera basica y permitido tras el plan de estudios.
+		<td width="50%"><h3>🏫 Preparatory</h3><br>
+			I studied Accounting at COBAEM 18 Ixtapaluca, acquiring knowledge in the classification of economic entities, accounting records, financial statements, cost calculation, payroll, and taxes. Additionally, I developed a basic business plan as part of the curriculum.
 		</td>
-		<td width="50%"> <h3>🏛️ Universidad</h3><br>
-			Estudié Informática en ETAC Chalco, adquiriendo conocimientos en programación, desarrollo de software, bases de datos y seguridad informática. También poseo habilidades para resolver problemas y participo en proyectos tecnológicos innovadores. Siempre me apasiona la tecnología y el aprendizaje continuo.
+		<td width="50%"> <h3>🏛️ University</h3><br>
+			I studied Computer Science at ETAC Chalco, acquiring knowledge in programming, software development, databases, and computer security. I also have problem-solving skills and participate in innovative technology projects. I'm always passionate about technology and continuous learning.
 		</td>
 	</tr>
 </table>
@@ -408,7 +396,7 @@ gantt
 			<picture>
 				<img src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" />
 			</picture>
-			Todo lo que desarolle para aprender
+			Everything I developed was for the purpose of learning.
 			<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" />
 		</h2>
 		<br>
@@ -422,7 +410,7 @@ gantt
 
 <details>
 	<summary>
-		📜 Credenciales
+		📜 Credentials
 	</summary>
 	<br>
 	<div align="center">
@@ -447,7 +435,7 @@ gantt
 </details>
 <details>
 	<summary>
-		🏆 Trofeos
+		🏆 Trophies
 	</summary>
 	<br>
 <picture align="left">
