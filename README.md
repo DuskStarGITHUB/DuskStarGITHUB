@@ -114,27 +114,17 @@ gantt
 		Inicio del Aprendizaje 01/01/2023 - 01/15/2023 :done, start1, 01/01/2023, 01/15/2023
         	HTML Básico 01/16/2023 - 02/15/2023 :done, html1, 01/16/2023, 02/15/2023
         	Etiquetas Avanzadas HTML 02/16/2023 - 03/15/2023 :done, html2, 02/16/2023, 03/15/2023
-        	Creación de Formularios HTML 03/16/2023 - 03/31/2023 :done, html3, 03/16/2023, 03/31/2023
         	CSS Básico 04/01/2023 - 04/30/2023 :done, css1, 04/01/2023, 04/30/2023
         	CSS Avanzado 05/01/2023 - 05/31/2023 :done, css2, 05/01/2023, 05/31/2023
         	JavaScript Básico 06/01/2023 - 06/30/2023 :done, js1, 06/01/2023, 06/30/2023
         	Manipulación del DOM 07/01/2023 - 07/15/2023 :done, js2, 07/01/2023, 07/15/2023
-        	CSS Grid 07/16/2023 - 07/31/2023 :done, css3, 07/16/2023, 07/31/2023
         	Python Básico 08/01/2023 - 08/30/2023 :done, python1, 08/01/2023, 08/30/2023
         	Python Intermedio 09/01/2023 - 09/30/2023 :done, python2, 09/01/2023, 09/30/2023
-        	Framework FastAPI 10/01/2023 - 10/31/2023 :done, fastapi1, 10/01/2023, 10/31/2023
-        	Uso de Librería Pandas en Python 11/01/2023 - 11/15/2023 :done, python3, 11/01/2023, 11/15/2023
         	SQL y Diseño de Bases de Datos 11/16/2023 - 11/30/2023 :done, sql1, 11/16/2023, 11/30/2023
-        	Trabajo con Bases de Datos MongoDB 12/01/2023 - 12/15/2023 :done, mongodb1, 12/01/2023, 12/15/2023
+        	MongoDB 12/01/2023 - 12/15/2023 :done, mongodb1, 12/01/2023, 12/15/2023
         	SQLite y Bases de Datos Locales 12/16/2023 - 12/31/2023 :done, sqlite1, 12/16/2023, 12/31/2023
         	Curso de Google Cloud 01/01/2024 - 01/15/2024 :done, cloud1, 01/01/2024, 01/15/2024
-        	Curso de Ciberseguridad 01/16/2024 - 01/31/2024 :done, cibersec1, 01/16/2024, 01/31/2024
-        	Aprendí a Consumir APIs 02/01/2024 - 02/15/2024 :done, api1, 02/01/2024, 02/15/2024
 		Diseño Responsivo con Media Queries 02/16/2024 - 02/29/2024 :done, media1, 02/16/2024, 02/29/2024
-        	Programación Orientada a Objetos 03/01/2024 - 03/15/2024 :done, oop1, 03/01/2024, 03/15/2024
-		Desarrollo de Aplicaciones Web con Flask 03/16/2024 - 03/31/2024 :done, flask1, 03/16/2024, 03/31/2024
-        	Machine Learning con Scikit-Learn 04/01/2024 - 04/15/2024 :done, ml1, 04/01/2024, 04/15/2024
-        	Desarrollo de Aplicaciones Móviles 04/16/2024 - 04/30/2024 :done, mobile1, 04/16/2024, 04/30/2024
 
 	section Proyectos
 		Proyecto DarkCalculator 12/01/2023 - 12/15/2023 :done, proyecto1, 12/01/2023, 12/15/2023
