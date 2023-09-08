@@ -1,15 +1,19 @@
+<!--Banner-->
 <picture>
 	<img src="/GITHUB/RECURSOS/banner.gif" width="100%"/>
 </picture>
 
+<!--Seccion-->
 <h2><picture><img align="left" height="60" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture><br>&nbsp;&nbsp;STATS</h2>
 <div align="center">
 	<img aling="left" width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=5&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
 	<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" width="65%"/>
 </div>
 
+<!--Seccion-->
 <h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>SKILLS</h2>
 <div align="center">
+	<!--Tabla-->
 	<table>
 		<tr>
 			<td>Front End</td>
@@ -90,9 +94,11 @@
 		</tr>
 	</table>
 </div>
-	
+
+<!--Seccion-->
 <h2><picture><img align="left" height="60" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/253f181a-2a46-4aa0-9ce8-3808fb1f333a/dau4df1-aec16799-5559-4f08-9877-d8eb8493d9be.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1M2YxODFhLTJhNDYtNGFhMC05Y2U4LTM4MDhmYjFmMzMzYVwvZGF1NGRmMS1hZWMxNjc5OS01NTU5LTRmMDgtOTg3Ny1kOGViODQ5M2Q5YmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsinnHwid6HUEbgBklzKQN-4bvI_I2VsMWt1gyZwhhU"/></picture><br>&nbsp;&nbsp;Mas...</h2>
 
+<!--Desglozar-->
 <details>
 	<summary>
 		🎓Career Journey
@@ -135,6 +141,7 @@ gantt
 </div>
 </details>
 
+<!--Desglozar-->
 <details>
 	<summary>
 		🚀 Projects
@@ -280,6 +287,7 @@ gantt
 	</table>
 </details>
 
+<!--Desglozar-->
 <details>
 	<summary>
 		🤝 Contributions
@@ -362,6 +370,7 @@ gantt
 	</table>
 </details>
 
+<!--Desglozar-->
 <details>
 	<summary>
 		🎒 Education
@@ -402,6 +411,7 @@ gantt
 	</div>
 </details>
 
+<!--Desglozar-->
 <details>
 	<summary>
 		📜 Credentials
@@ -427,11 +437,14 @@ gantt
 		</table>
 	</div>
 </details>
+<!--Desglozar-->
 <details>
 	<summary>
 		🏆 Trophies
 	</summary>
 	<br>
+
+<!--Footer-->
 <picture align="left">
 	
 ![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=discord&no-frame=false&no-bg=true&margin-w=2)
