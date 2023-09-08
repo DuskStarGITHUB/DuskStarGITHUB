@@ -34,10 +34,10 @@
 			</td>
 			<td>
 				<img src="/GITHUB/ICONS/6-mysql.svg" alt="Mysql" width="35px"/>
-				<img src="https://gitlab.linphone.org/uploads/-/system/project/avatar/407/sqlite.png" alt="SQLite" width="35px"/>
+				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite" width="35px"/>
 			</td>
 			<td>
-				<img src="https://w7.pngwing.com/pngs/211/216/png-transparent-fastapi-hd-logo-thumbnail.png" alt="FastApi" width="35px"/>
+				<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastApi" width="35px"/>
 			</td>
 			<td>
 				<img src="https://www.pngmart.com/files/17/Windows-Logo-Transparent-Background.png" alt="Windows" width="35px"/>
