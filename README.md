@@ -25,69 +25,69 @@
   		</tr>
 		<tr>
 			<td>
-				<img src="/GITHUB/ICONS/1-html.svg" alt="HTML" width="40" height="40"/>
-				<img src="/GITHUB/ICONS/2-css.svg" alt="Css" width="40" height="40"/>
+				<img src="/GITHUB/ICONS/1-html.svg" alt="HTML" width="35px"/>
+				<img src="/GITHUB/ICONS/2-css.svg" alt="Css" width="35px"/>
 			</td>
 			<td>
-				<img src="/GITHUB/ICONS/11-js.svg" alt="Javascript" width="40" height="40"/>
-				<img src="/GITHUB/ICONS/3-typescript.png" alt="Typescript" width="40" height="40"/>
+				<img src="/GITHUB/ICONS/11-js.svg" alt="Javascript" width="35px"/>
+				<img src="/GITHUB/ICONS/3-typescript.png" alt="Typescript" width="35px"/>
 			</td>
 			<td>
-				<img src="/GITHUB/ICONS/6-mysql.svg" alt="Mysql" width="40" height="40"/>
-				<img src="https://gitlab.linphone.org/uploads/-/system/project/avatar/407/sqlite.png" alt="SQLite" width="40" height="40"/>
+				<img src="/GITHUB/ICONS/6-mysql.svg" alt="Mysql" width="35px"/>
+				<img src="https://gitlab.linphone.org/uploads/-/system/project/avatar/407/sqlite.png" alt="SQLite" width="35px"/>
 			</td>
 			<td>
-				<img src="https://w7.pngwing.com/pngs/211/216/png-transparent-fastapi-hd-logo-thumbnail.png" alt="FastApi" width="40" height="40"/>
+				<img src="https://w7.pngwing.com/pngs/211/216/png-transparent-fastapi-hd-logo-thumbnail.png" alt="FastApi" width="35px"/>
 			</td>
 			<td>
-				<img src="https://www.pngmart.com/files/17/Windows-Logo-Transparent-Background.png" alt="Windows" width="40" height="40"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="40" height="40"/>
+				<img src="https://www.pngmart.com/files/17/Windows-Logo-Transparent-Background.png" alt="Windows" width="35px"/>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="35px"/>
 			</td>
 			<td>
-				<img src="/GITHUB/ICONS/12-vscode.svg" alt="Vs Code" width="40" height="40"/>
-				<img src="https://static.vecteezy.com/system/resources/previews/022/841/114/original/chatgpt-logo-transparent-background-free-png.png" alt="GPT" width="40" height="40"/>
+				<img src="/GITHUB/ICONS/12-vscode.svg" alt="Vs Code" width="35px"/>
+				<img src="https://static.vecteezy.com/system/resources/previews/022/841/114/original/chatgpt-logo-transparent-background-free-png.png" alt="GPT" width="35px"/>
 			</td>
 		</tr>
 		<tr>
 			<td></td>
 			<td>
-				<img src="/GITHUB/ICONS/5-python.svg" alt="Python" width="40" height="40"/>
-				<img src="/GITHUB/ICONS/4-cpp.svg" alt="CPP" width="40" height="40"/>
+				<img src="/GITHUB/ICONS/5-python.svg" alt="Python" width="35px"/>
+				<img src="/GITHUB/ICONS/4-cpp.svg" alt="CPP" width="35px"/>
 			</td>
 			<td>
-				<img src="/GITHUB/ICONS/7-mongodb.png" alt="Mongodb" width="40" height="40"/>
+				<img src="/GITHUB/ICONS/7-mongodb.png" alt="Mongodb" width="35px"/>
 			</td>
 			<td>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="35px"/>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="35px"/>
 			</td>
 			<td>
-				<img src="/GITHUB/ICONS/9-docker.png" alt="Docker" width="40" height="40"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="40" height="40"/>
+				<img src="/GITHUB/ICONS/9-docker.png" alt="Docker" width="35px"/>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="35px"/>
 			</td>
 			<td>
-				<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-md.png" alt="GitHub" width="40" height="40"/>
-				<img src="/GITHUB/ICONS/8-git.svg" alt="Git" width="40" height="40"/>
+				<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-md.png" alt="GitHub" width="35px"/>
+				<img src="/GITHUB/ICONS/8-git.svg" alt="Git" width="35px"/>
 			</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="40" height="40"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="40" height="40"/>
-			</td>
-			<td></td>
-			<td></td>
 		</tr>
 		<tr>
 			<td></td>
 			<td></td>
 			<td></td>
 			<td>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="40" height="40"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="40" height="40"/>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="35px"/>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="35px"/>
+			</td>
+			<td></td>
+			<td></td>
+		</tr>
+		<tr>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="35px"/>
+				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="35px"/>
 			</td>
 			<td></td>
 			<td></td>
