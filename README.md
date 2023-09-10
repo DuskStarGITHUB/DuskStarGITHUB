@@ -1,3 +1,5 @@
+<!--YOU HERE?-->
+
 <!--Banner-->
 <picture>
 	<img src="/GITHUB/RECURSOS/banner.gif" width="100%"/>
