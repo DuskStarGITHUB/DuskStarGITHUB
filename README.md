@@ -8,7 +8,7 @@
 <!--Seccion-->
 <h2><picture><img align="left" height="60" src="https://cdn.pixabay.com/animation/2023/06/13/15/13/15-13-13-522_512.gif"/></picture><br>&nbsp;&nbsp;STATS</h2>
 <div align="center">
-	<img aling="left" width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=5&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true&locale=es" alt=DuskStarGITHUB/>
+	<img aling="left" width="27.5%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DuskStarGITHUB&langs_count=5&bg_color=00000000&custom_title=Lenguajes&nbsp;mas&nbsp;usados&hide_border=true" alt=DuskStarGITHUB/>
 	<img align="right" src="https://github-readme-activity-graph.vercel.app/graph?username=DuskStarGITHUB&theme=tokyo-night&bg_color=00000000&custom_title=Grafico&nbsp;de&nbsp;Actividad&nbsp;DuskStar" width="65%"/>
 </div>
 
