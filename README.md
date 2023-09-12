@@ -13,7 +13,13 @@
 </div>
 
 <!--Seccion-->
-<h2><picture><img align="left" height="60" src="https://media.tenor.com/CeDk6XdCgOUAAAAj/develop-web.gif"/></picture><br>SKILLS</h2>
+<h2><picture><img align="left" height="60" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/253f181a-2a46-4aa0-9ce8-3808fb1f333a/dau4df1-aec16799-5559-4f08-9877-d8eb8493d9be.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1M2YxODFhLTJhNDYtNGFhMC05Y2U4LTM4MDhmYjFmMzMzYVwvZGF1NGRmMS1hZWMxNjc5OS01NTU5LTRmMDgtOTg3Ny1kOGViODQ5M2Q5YmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsinnHwid6HUEbgBklzKQN-4bvI_I2VsMWt1gyZwhhU"/></picture><br>&nbsp;&nbsp;Mas...</h2>
+
+<!--Desglozar-->
+<details>
+	<summary>
+		🧠 Skills
+	</summary>
 <div align="center">
 	<!--Tabla-->
 	<table>
@@ -96,14 +102,12 @@
 		</tr>
 	</table>
 </div>
-
-<!--Seccion-->
-<h2><picture><img align="left" height="60" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/253f181a-2a46-4aa0-9ce8-3808fb1f333a/dau4df1-aec16799-5559-4f08-9877-d8eb8493d9be.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1M2YxODFhLTJhNDYtNGFhMC05Y2U4LTM4MDhmYjFmMzMzYVwvZGF1NGRmMS1hZWMxNjc5OS01NTU5LTRmMDgtOTg3Ny1kOGViODQ5M2Q5YmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsinnHwid6HUEbgBklzKQN-4bvI_I2VsMWt1gyZwhhU"/></picture><br>&nbsp;&nbsp;Mas...</h2>
-
+</details>
+	
 <!--Desglozar-->
 <details>
 	<summary>
-		🎓Career Journey
+		🎓 Career Journey
 	</summary>
 	<div align="center">
 	
