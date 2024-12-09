@@ -272,7 +272,7 @@ gantt
 				<td>
 					<a href="https://github.com/DuskStarGITHUB/Conecta">
 						<b>
-							...
+							Conecta
 						</b>
 					</a>
 				</td>
