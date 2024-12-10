@@ -27,7 +27,6 @@
 			<td>Front End</td>
 			<td>Backend</td>
     			<td>BD</td>
-    			<td>Dev</td>
     			<td>Dev Ops</td>
     			<td>Tools</td>
   		</tr>
@@ -42,9 +41,7 @@
 			</td>
 			<td>
 				<img src="/GITHUB/ICONS/6-mysql.svg" alt="Mysql" width="35px"/>
-				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite" width="35px"/>
 			</td>
-			<td></td>
 			<td>
 				<img src="https://www.pngmart.com/files/17/Windows-Logo-Transparent-Background.png" alt="Windows" width="35px"/>
 				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="35px"/>
@@ -55,7 +52,6 @@
 			</td>
 		</tr>
 		<tr>
-			<td></td>
 			<td></td>
 			<td></td>
 			<td></td>
