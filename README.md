@@ -69,7 +69,7 @@
 			</td>
 		</tr>
 		
-	</table>
+</table>
 </div>
 </details>
 	
