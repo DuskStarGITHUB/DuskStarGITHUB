@@ -68,22 +68,7 @@
 				<img src="/GITHUB/ICONS/8-git.svg" alt="Git" width="35px"/>
 			</td>
 		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td></td>
-		</tr>
+		
 	</table>
 </div>
 </details>
