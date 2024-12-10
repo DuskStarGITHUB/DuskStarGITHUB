@@ -13,12 +13,12 @@
 </div>
 
 <!--Seccion-->
-<h2><picture><img align="left" height="60" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/253f181a-2a46-4aa0-9ce8-3808fb1f333a/dau4df1-aec16799-5559-4f08-9877-d8eb8493d9be.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1M2YxODFhLTJhNDYtNGFhMC05Y2U4LTM4MDhmYjFmMzMzYVwvZGF1NGRmMS1hZWMxNjc5OS01NTU5LTRmMDgtOTg3Ny1kOGViODQ5M2Q5YmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsinnHwid6HUEbgBklzKQN-4bvI_I2VsMWt1gyZwhhU"/></picture><br>&nbsp;&nbsp;MORE...</h2>
+<h2><picture><img align="left" height="60" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/253f181a-2a46-4aa0-9ce8-3808fb1f333a/dau4df1-aec16799-5559-4f08-9877-d8eb8493d9be.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzI1M2YxODFhLTJhNDYtNGFhMC05Y2U4LTM4MDhmYjFmMzMzYVwvZGF1NGRmMS1hZWMxNjc5OS01NTU5LTRmMDgtOTg3Ny1kOGViODQ5M2Q5YmUuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.CsinnHwid6HUEbgBklzKQN-4bvI_I2VsMWt1gyZwhhU"/></picture><br>&nbsp;&nbsp;MÁS...</h2>
 
 <!--Desglozar-->
 <details>
 	<summary>
-		🧠 Skills
+		🧠 Habilidades
 	</summary>
 <div align="center">
 	<!--Tabla-->
@@ -44,9 +44,7 @@
 				<img src="/GITHUB/ICONS/6-mysql.svg" alt="Mysql" width="35px"/>
 				<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Sqlite-square-icon.svg/2048px-Sqlite-square-icon.svg.png" alt="SQLite" width="35px"/>
 			</td>
-			<td>
-				<img src="https://cdn.worldvectorlogo.com/logos/fastapi.svg" alt="FastApi" width="35px"/>
-			</td>
+			<td></td>
 			<td>
 				<img src="https://www.pngmart.com/files/17/Windows-Logo-Transparent-Background.png" alt="Windows" width="35px"/>
 				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="35px"/>
@@ -58,17 +56,9 @@
 		</tr>
 		<tr>
 			<td></td>
-			<td>
-				<img src="/GITHUB/ICONS/5-python.svg" alt="Python" width="35px"/>
-				<img src="/GITHUB/ICONS/4-cpp.svg" alt="CPP" width="35px"/>
-			</td>
-			<td>
-				<img src="/GITHUB/ICONS/7-mongodb.png" alt="Mongodb" width="35px"/>
-			</td>
-			<td>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="35px"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="35px"/>
-			</td>
+			<td></td>
+			<td></td>
+			<td></td>
 			<td>
 				<img src="/GITHUB/ICONS/9-docker.png" alt="Docker" width="35px"/>
 				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="35px"/>
@@ -82,10 +72,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pandas-original.svg" alt="Pandas" width="35px"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/opencv-icon.svg" alt="Opencv" width="35px"/>
-			</td>
+			<td></td>
 			<td></td>
 			<td></td>
 		</tr>
@@ -93,10 +80,7 @@
 			<td></td>
 			<td></td>
 			<td></td>
-			<td>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/logo-mark-lightbg.svg" alt="SeaBorn" width="35px"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/Scikit_learn_logo_small.svg" alt="Scikit" width="35px"/>
-			</td>
+			<td></td>
 			<td></td>
 			<td></td>
 		</tr>
@@ -107,14 +91,14 @@
 <!--Desglozar-->
 <details>
 	<summary>
-		🎓 Career Journey
+		🎓 Trayectoria Profesional
 	</summary>
 	<div align="center">
 	
 ```mermaid
 gantt
 	dateFormat MM/DD/YYYY
-	title DuskStar Gantt Chart
+	title DuskStar Gantt Diagrama
 
 	section Learning
 		Learning Start 01/01/2023 - 01/15/2023 :done, start1, 01/01/2023, 01/15/2023
@@ -150,7 +134,7 @@ gantt
 <!--Desglozar-->
 <details>
 	<summary>
-		🚀 Projects
+		🚀 Proyectos
 	</summary>
 	<br>
 	<table align="center">
@@ -158,27 +142,27 @@ gantt
 			<tr border: none;>
 				<td>
 					<b>
-						📂 Names
+						📂 Nombre
 					</b>
 				</td>
 				<td>
 					<b>
-						⭐ Stars
+						⭐ Estrellas
 					</b>
 				</td>
 				<td>
 					<b>
-						📚 Forks
+						📚 Bifurcaciones
 					</b>
 				</td>
 				<td>
 					<b>
-						🛎 Issues
+						🛎 Sugerenicas
 					</b>
 				</td>
 				<td>
 					<b>
-						📬 Pull requests
+						📬 Cambios
 					</b>
 				</td>
 			</tr>
@@ -296,7 +280,7 @@ gantt
 <!--Desglozar-->
 <details>
 	<summary>
-		🤝 Contributions
+		🤝 Contribuciones
 	</summary>
 	<br>
 	<table align="center">
@@ -304,27 +288,27 @@ gantt
 			<tr border: none;>
 				<td>
 					<b>
-						📂 Names
+						📂 Nombres
 					</b>
 				</td>
 				<td>
 					<b>
-						⭐ Stars
+						⭐ Estrellas
 					</b>
 				</td>
 				<td>
 					<b>
-						📚 Forks
+						📚 Bifurcaciones
 					</b>
 				</td>
 				<td>
 					<b>
-						🛎 Issues
+						🛎 Sugerencias
 					</b>
 				</td>
 				<td>
 					<b>
-						📬 Pull requests
+						📬 Cambios
 					</b>
 				</td>
 			</tr>
@@ -379,7 +363,7 @@ gantt
 <!--Desglozar-->
 <details>
 	<summary>
-		🎒 Education
+		🎒 Educacion
 	</summary>
 	<div align="center">
 		<h2>
@@ -391,11 +375,11 @@ gantt
 		<br>
 <table>
 	<tr>
-		<td width="50%"><h3>🏫 Preparatory</h3><br>
-			I studied Accounting at COBAEM 18 Ixtapaluca, acquiring knowledge in the classification of economic entities, accounting records, financial statements, cost calculation, payroll, and taxes. Additionally, I developed a basic business plan as part of the curriculum.
+		<td width="50%"><h3>🏫 Preparatoria</h3><br>
+			Estudié Contabilidad en el COBAEM 18 Ixtapaluca, adquiriendo conocimientos en la clasificación de entidades económicas, registros contables, estados financieros, cálculo de costos, nómina e impuestos. Además, desarrollé un plan de negocios básico como parte del plan de estudios.
 		</td>
-		<td width="50%"> <h3>🏛️ University</h3><br>
-			I studied Computer Science at ETAC Chalco, acquiring knowledge in programming, software development, databases, and computer security. I also have problem-solving skills and participate in innovative technology projects. I'm always passionate about technology and continuous learning.
+		<td width="50%"> <h3>🏛️ Universidad</h3><br>
+			Estudié Ciencias de la Computación en ETAC Chalco, adquiriendo conocimientos en programación, desarrollo de software, bases de datos y seguridad informática. También poseo habilidades para resolver problemas y participo en proyectos tecnológicos innovadores. Siempre me ha apasionado la tecnología y el aprendizaje continuo.
 		</td>
 	</tr>
 </table>
@@ -405,7 +389,7 @@ gantt
 			<picture>
 				<img src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" />
 			</picture>
-			Everything I developed was for the purpose of learning.
+			Todo lo que desarrollé fue con el propósito de aprender.
 			<img style="transform:scaleX(-1);" src="https://media.giphy.com/media/duExSjCrIxTT60Nycr/giphy.gif" height="30" />
 		</h2>
 		<br>
@@ -420,7 +404,7 @@ gantt
 <!--Desglozar-->
 <details>
 	<summary>
-		📜 Credentials
+		📜 Certificados
 	</summary>
 	<br>
 	<div align="center">
@@ -446,7 +430,7 @@ gantt
 <!--Desglozar-->
 <details>
 	<summary>
-		🏆 Trophies
+		🏆 Trofeos
 	</summary>
 	<br>
 
