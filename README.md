@@ -41,7 +41,6 @@
 			</td>
 			<td>
 				<img src="/GITHUB/ICONS/6-mysql.svg" alt="MySQL" width="35px"/>
-				<img src="/GITHUB/ICONS/mysqlworkbench-icon.svg" alt="MySQL Workbench" width="35px"/>
 			</td>
 			<td>
 				<img src="/GITHUB/ICONS/12-vscode.svg" alt="VS Code" width="35px"/>
