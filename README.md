@@ -21,52 +21,38 @@
 		🧠 Habilidades
 	</summary>
 <div align="center">
-	<!--Tabla-->
+	<!-- Tabla -->
 	<table>
 		<tr>
 			<td>Front End</td>
 			<td>Backend</td>
-    			<td>BD</td>
-    			<td>Dev Ops</td>
-    			<td>Tools</td>
-  		</tr>
+			<td>Base de Datos</td>
+			<td>Herramientas</td>
+		</tr>
 		<tr>
 			<td>
 				<img src="/GITHUB/ICONS/1-html.svg" alt="HTML" width="35px"/>
-				<img src="/GITHUB/ICONS/2-css.svg" alt="Css" width="35px"/>
+				<img src="/GITHUB/ICONS/2-css.svg" alt="CSS" width="35px"/>
+				<img src="/GITHUB/ICONS/react-icon.svg" alt="React" width="35px"/>
 			</td>
 			<td>
-				<img src="/GITHUB/ICONS/11-js.svg" alt="Javascript" width="35px"/>
-				<img src="/GITHUB/ICONS/3-typescript.png" alt="Typescript" width="35px"/>
+				<img src="/GITHUB/ICONS/nodejs-icon.svg" alt="Node.js" width="35px"/>
+				<img src="/GITHUB/ICONS/express-icon.svg" alt="Express" width="35px"/>
 			</td>
 			<td>
-				<img src="/GITHUB/ICONS/6-mysql.svg" alt="Mysql" width="35px"/>
+				<img src="/GITHUB/ICONS/6-mysql.svg" alt="MySQL" width="35px"/>
+				<img src="/GITHUB/ICONS/mysqlworkbench-icon.svg" alt="MySQL Workbench" width="35px"/>
 			</td>
 			<td>
-				<img src="https://www.pngmart.com/files/17/Windows-Logo-Transparent-Background.png" alt="Windows" width="35px"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/linux-original.svg" alt="Linux" width="35px"/>
-			</td>
-			<td>
-				<img src="/GITHUB/ICONS/12-vscode.svg" alt="Vs Code" width="35px"/>
-				<img src="https://static.vecteezy.com/system/resources/previews/022/841/114/original/chatgpt-logo-transparent-background-free-png.png" alt="GPT" width="35px"/>
-			</td>
-		</tr>
-		<tr>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td>
-				<img src="/GITHUB/ICONS/9-docker.png" alt="Docker" width="35px"/>
-				<img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Devops/google_cloud-icon.svg" alt="Google Cloud" width="35px"/>
-			</td>
-			<td>
+				<img src="/GITHUB/ICONS/12-vscode.svg" alt="VS Code" width="35px"/>
 				<img src="https://creazilla-store.fra1.digitaloceanspaces.com/icons/7914417/github-icon-md.png" alt="GitHub" width="35px"/>
 				<img src="/GITHUB/ICONS/8-git.svg" alt="Git" width="35px"/>
-			</td>
+				<img src="https://static.vecteezy.com/system/resources/previews/022/841/114/original/chatgpt-logo-transparent-background-free-png.png" alt="ChatGPT" width="35px"/>
+				<img src="GITHUB/ICONS/10-terminal.svg" alt="Terminal" width="35px">
 		</tr>
-		
-</table>
+	</table>
 </div>
+
 </details>
 	
 <!--Desglozar-->
@@ -81,8 +67,8 @@ gantt
 	dateFormat MM/DD/YYYY
 	title DuskStar Gantt Diagrama
 
-	section Learning
-		Learning Start 01/01/2023 - 01/15/2023 :done, start1, 01/01/2023, 01/15/2023
+    section Learning
+    	Learning Start 01/01/2023 - 01/15/2023 :done, start1, 01/01/2023, 01/15/2023
         	Basic HTML 01/16/2023 - 02/15/2023 :done, html1, 01/16/2023, 02/15/2023
         	Advanced HTML Tags 02/16/2023 - 03/15/2023 :done, html2, 02/16/2023, 03/15/2023
         	Basic CSS 04/01/2023 - 04/30/2023 :done, css1, 04/01/2023, 04/30/2023
@@ -95,17 +81,17 @@ gantt
         	MongoDB 12/01/2023 - 12/15/2023 :done, mongodb1, 12/01/2023, 12/15/2023
         	SQLite and Local Databases 12/16/2023 - 12/31/2023 :done, sqlite1, 12/16/2023, 12/31/2023
         	Google Cloud Course 01/01/2024 - 01/15/2024 :done, cloud1, 01/01/2024, 01/15/2024
-		Responsive Design with Media Queries 02/16/2024 - 02/29/2024 :done, media1, 02/16/2024, 02/29/2024
+    	Responsive Design with Media Queries 02/16/2024 - 02/29/2024 :done, media1, 02/16/2024, 02/29/2024
 
-	section Projects
-		DarkCalculator Project 12/01/2023 - 12/15/2023 :done, project1, 12/01/2023, 12/15/2023
-		DuskStarGITHUB.github.io Project 12/16/2023 - 12/31/2023 :done, project2, 12/16/2023, 12/31/2023
+    section Projects
+    	DarkCalculator Project 12/01/2023 - 12/15/2023 :done, project1, 12/01/2023, 12/15/2023
+    	DuskStarGITHUB.github.io Project 12/16/2023 - 12/31/2023 :done, project2, 12/16/2023, 12/31/2023
 
-	section Contributions
-		SimpleVSCode Contribution 01/01/2024 - 01/15/2024 :done, contribution1, 01/01/2024, 01/15/2024
-		Documentation Contribution 01/16/2024 - 01/31/2024 :done, contribution2, 01/16/2024, 01/31/2024
+    section Contributions
+    	SimpleVSCode Contribution 01/01/2024 - 01/15/2024 :done, contribution1, 01/01/2024, 01/15/2024
+    	Documentation Contribution 01/16/2024 - 01/31/2024 :done, contribution2, 01/16/2024, 01/31/2024
 
-```
+````
 
 ---
 
@@ -417,12 +403,12 @@ gantt
 
 <!--Footer-->
 <picture align="left">
-	
+
 ![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=discord&no-frame=false&no-bg=true&margin-w=2)
 </picture>
 </details>
 <div align="center">
-	
+
 ```diff
  ─▄▀─▄▀
  ──▀──▀
@@ -430,7 +416,6 @@ gantt
  █░░░░░█─█
  ▀▄▄▄▄▄▀▀
 
- ```
+````
 
 </div>
-
