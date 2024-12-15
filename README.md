@@ -133,49 +133,8 @@ gantt
 				</td>
 			</tr>
 		</thead>
+		<!--Filas de proyectos-->
 		<tbody>
-			<tr>
-				<td>
-					<a href="https://github.com/DuskStarGITHUB/DuskStarGITHUB">
-						<b>
-							README
-						</b>
-					</a>
-				</td>
-				<td>
-					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/
-				</td>
-				<td>
-					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/
-				</td>
-				<td>
-					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/
-				</td>
-				<td>
-					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DuskStarGITHUB?style=flat-square&labelColor=343b41"/>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					<a href="https://github.com/DuskStarGITHUB/PORTAFOLIO-GITHUB">
-						<b>
-							Portfolio GITHUB
-						</b>
-					</a>
-				</td>
-				<td>
-					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/
-				</td>
-				<td>
-					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/>
-				</td>
-				<td>
-					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/>
-				</td>
-				<td>
-					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/PORTAFOLIO-GITHUB?style=flat-square&labelColor=343b41"/>
-				</td>
-			</tr>
 			<tr>
 				<td>
 					<a href="https://github.com/DuskStarGITHUB/DuskStarGITHUB.github.io">
@@ -195,48 +154,6 @@ gantt
 				</td>
 				<td>
 					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DuskStarGITHUB.github.io?style=flat-square&labelColor=343b41"/>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					<a href="https://github.com/DuskStarGITHUB/DarkCalculator">
-						<b>
-							DarkCalculator
-						</b>
-					</a>
-				</td>
-				<td>
-					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/
-				</td>
-				<td>
-					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/>
-				</td>
-				<td>
-					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/>
-				</td>
-				<td>
-					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/DarkCalculator?style=flat-square&labelColor=343b41"/>
-				</td>
-			</tr>
-			<tr>
-				<td>
-					<a href="https://github.com/DuskStarGITHUB/Conecta">
-						<b>
-							Conecta
-						</b>
-					</a>
-				</td>
-				<td>
-					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/Conecta?style=flat-square&labelColor=343b41"/>
-				</td>
-				<td>
-					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/Conecta?style=flat-square&labelColor=343b41"/>
-				</td>
-				<td>
-					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/Conecta?style=flat-square&labelColor=343b41"/>
-				</td>
-				<td>
-					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/Conecta?style=flat-square&labelColor=343b41"/>
 				</td>
 			</tr>
 		</tbody>
@@ -336,7 +253,7 @@ gantt
 			<picture>
 				<img src="https://www.puntogeek.com/wp-content/uploads/2010/06/mario-in-3d.gif" height="30" />
 			</picture>
-			Experience
+			Estudios
 		</h2>
 		<br>
 <table>
