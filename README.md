@@ -18,7 +18,7 @@
 <!--Desglozar-->
 <details>
 	<summary>
-		🧠 Habilidades
+		🧠 Especialidad
 	</summary>
 <div align="center">
 	<!-- Tabla -->
