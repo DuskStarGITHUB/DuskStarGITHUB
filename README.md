@@ -271,15 +271,15 @@ gantt
 		🏆 Trofeos
 	</summary>
 	<br>
-
-<!--Footer-->
 <picture align="left">
-
+	
 ![](https://github-profile-trophy.vercel.app/?username=DuskStarGITHUB&theme=discord&no-frame=false&no-bg=true&margin-w=2)
 </picture>
 </details>
-<div align="center">
 
+<!--Footer-->
+<div align="center">
+	
 ```diff
  ─▄▀─▄▀
  ──▀──▀
@@ -290,4 +290,4 @@ gantt
 ````
 
 </div>
-<!-- BE NICE, SO TRY TO MAKE GOOD THINGS-->
+<!-- SE BUENO, INTENTA HACER COSAS BUENAS-->
