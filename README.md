@@ -63,32 +63,24 @@
 	
 ```mermaid
 gantt
-	dateFormat MM/DD/YYYY
-	title DuskStar Gantt Diagrama
+    dateFormat  DD/MM/YYYY
+    title Ruta de Aprendizaje 2025 (Fechas exactas)
+    
+    section Frontend
+        HTML           :html, 01/01/2025, 02/01/2025
+        CSS            :css, 02/01/2025, 08/01/2025
+        JavaScript     :js, 09/01/2025, 30/01/2025
+        React          :react, 31/01/2025, 21/02/2025
+        Vite           :vite, 22/02/2025, 04/03/2025
 
-    section Learning
-    	Learning Start 01/01/2023 - 01/15/2023 :done, start1, 01/01/2023, 01/15/2023
-        	Basic HTML 01/16/2023 - 02/15/2023 :done, html1, 01/16/2023, 02/15/2023
-        	Advanced HTML Tags 02/16/2023 - 03/15/2023 :done, html2, 02/16/2023, 03/15/2023
-        	Basic CSS 04/01/2023 - 04/30/2023 :done, css1, 04/01/2023, 04/30/2023
-        	Advanced CSS 05/01/2023 - 05/31/2023 :done, css2, 05/01/2023, 05/31/2023
-        	Basic JavaScript 06/01/2023 - 06/30/2023 :done, js1, 06/01/2023, 06/30/2023
-        	DOM Manipulation 07/01/2023 - 07/15/2023 :done, js2, 07/01/2023, 07/15/2023
-        	Basic Python 08/01/2023 - 08/30/2023 :done, python1, 08/01/2023, 08/30/2023
-        	Intermediate Python 09/01/2023 - 09/30/2023 :done, python2, 09/01/2023, 09/30/2023
-        	SQL and Database Design 11/16/2023 - 11/30/2023 :done, sql1, 11/16/2023, 11/30/2023
-        	MongoDB 12/01/2023 - 12/15/2023 :done, mongodb1, 12/01/2023, 12/15/2023
-        	SQLite and Local Databases 12/16/2023 - 12/31/2023 :done, sqlite1, 12/16/2023, 12/31/2023
-        	Google Cloud Course 01/01/2024 - 01/15/2024 :done, cloud1, 01/01/2024, 01/15/2024
-    	Responsive Design with Media Queries 02/16/2024 - 02/29/2024 :done, media1, 02/16/2024, 02/29/2024
+    section Backend/Desktop
+        Node.js        :nodejs, 05/03/2025, 05/04/2025
+        Electron       :electron, 06/04/2025, 06/05/2025
 
-    section Projects
-    	DarkCalculator Project 12/01/2023 - 12/15/2023 :done, project1, 12/01/2023, 12/15/2023
-    	DuskStarGITHUB.github.io Project 12/16/2023 - 12/31/2023 :done, project2, 12/16/2023, 12/31/2023
-
-    section Contributions
-    	SimpleVSCode Contribution 01/01/2024 - 01/15/2024 :done, contribution1, 01/01/2024, 01/15/2024
-    	Documentation Contribution 01/16/2024 - 01/31/2024 :done, contribution2, 01/16/2024, 01/31/2024
+    section DevOps
+        Docker         :docker, 07/05/2025, 21/05/2025
+        Kubernetes     :k8s, 22/05/2025, 22/06/2025
+        AdminSys       :adminsys, 23/06/2025, 23/07/2025
 
 ````
 
