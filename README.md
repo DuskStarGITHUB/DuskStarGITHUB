@@ -150,23 +150,65 @@ gantt
 			</tr>
 			<tr>
 				<td>
-					<a href="https://github.com/DuskStarGITHUB/Coding">
+					<a href="https://github.com/DuskStarGITHUB/ntsapp">
 						<b>
-							Coding
+							Notes App
 						</b>
 					</a>
 				</td>
 				<td>
-					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/Coding?style=flat-square&labelColor=343b41"/>
+					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/ntsapp?style=flat-square&labelColor=343b41"/>
 				</td>
 				<td>
-					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/Coding?style=flat-square&labelColor=343b41"/>
+					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/ntsapp?style=flat-square&labelColor=343b41"/>
 				</td>
 				<td>
-					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/Coding?style=flat-square&labelColor=343b41"/>
+					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/ntsapp?style=flat-square&labelColor=343b41"/>
 				</td>
 				<td>
-					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/Coding?style=flat-square&labelColor=343b41"/>
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/ntsapp?style=flat-square&labelColor=343b41"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/DuskStarGITHUB/dj-jesus">
+						<b>
+							DJ WEB
+						</b>
+					</a>
+				</td>
+				<td>
+					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/dj-jesus?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/dj-jesus?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/dj-jesus?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/dj-jesus?style=flat-square&labelColor=343b41"/>
+				</td>
+			</tr>
+			<tr>
+				<td>
+					<a href="https://github.com/DuskStarGITHUB/my-enterpise">
+						<b>
+							System || PM-CRM-ERP 
+						</b>
+					</a>
+				</td>
+				<td>
+					<img alt="Stars" src="https://img.shields.io/github/stars/DuskStarGITHUB/my-enterpise?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Forks" src="https://img.shields.io/github/forks/DuskStarGITHUB/my-enterpise?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Issues" src="https://img.shields.io/github/issues/DuskStarGITHUB/my-enterpise?style=flat-square&labelColor=343b41"/>
+				</td>
+				<td>
+					<img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/DuskStarGITHUB/my-enterpise?style=flat-square&labelColor=343b41"/>
 				</td>
 			</tr>
 		</tbody>
