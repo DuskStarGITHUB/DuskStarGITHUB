@@ -31,13 +31,13 @@
 		</tr>
 		<tr>
 			<td>
-				<img src="/GITHUB/ICONS/1-html.svg" alt="HTML" width="35px"/>
-				<img src="/GITHUB/ICONS/2-css.svg" alt="CSS" width="35px"/>
+				<img src="/GITHUB/ICONS/typescript.svg" alt="TS" width="35px"/>
+				<img src="/GITHUB/ICONS/tailwind.svg" alt="TAILWIND" width="35px"/>
 				<img src="/GITHUB/ICONS/react-icon.svg" alt="React" width="35px"/>
 			</td>
 			<td>
 				<img src="/GITHUB/ICONS/nodejs-icon.svg" alt="Node.js" width="35px"/>
-				<img src="/GITHUB/ICONS/express-icon.svg" alt="Express" width="35px"/>
+				<img src="/GITHUB/ICONS/nestjs.svg" alt="Express" width="35px"/>
 			</td>
 			<td>
 				<img src="/GITHUB/ICONS/6-mysql.svg" alt="MySQL" width="35px"/>
